@@ -1,0 +1,33 @@
+id,nazev,typ,adresa1,adresa2,adresa3,PSC,obec,kraj,obor_kod,obor_nazev,obor_forma,obor_delka,obor_kapacita,okres
+000367761,Střední škola,C00,Komenského 147,396 01 Humpolec,396 01 Humpolec,396 01,Humpolec,Kraj Vysočina,7941K41,Gymnázium,10,40,135,Pelhřimov
+000072753,Střední škola,C00,Jirsíkova 244,393 01 Pelhřimov,393 01 Pelhřimov,393 01,Pelhřimov,Kraj Vysočina,6341M02,Obchodní akademie,10,40,250,Pelhřimov
+000072869,Střední škola,C00,Friedova 1469,393 01 Pelhřimov,393 01 Pelhřimov,393 01,Pelhřimov,Kraj Vysočina,1820M01,Informační technologie,10,40,120,Pelhřimov
+107830396,Střední škola,C00,Hradská 276,396 01 Humpolec,396 01 Humpolec,396 01,Humpolec,Kraj Vysočina,1820M01,Informační technologie,10,40,100,Pelhřimov
+102006881,Střední škola,C00,Štáflova 2063,580 01 Havlíčkův Brod,580 01 Havlíčkův Brod,580 01,Havlíčkův Brod,Kraj Vysočina,7941K41,Gymnázium,10,40,260,Havlíčkův Brod
+102006920,Střední škola,C00,Jiráskova 637,583 01 Chotěboř,583 01 Chotěboř,583 01,Chotěboř,Kraj Vysočina,7941K41,Gymnázium,10,40,132,Havlíčkův Brod
+130002097,Střední škola,C00,Husovo náměstí 1,584 01 Ledeč nad Sázavou,584 01 Ledeč nad Sázavou,584 01,Ledeč nad Sázavou,Kraj Vysočina,1820M01,Informační technologie,10,40,125,Havlíčkův Brod
+102018006,Střední škola,C00,Jihlavská 628,580 01 Havlíčkův Brod,580 01 Havlíčkův Brod,580 01,Havlíčkův Brod,Kraj Vysočina,3647M01,Stavebnictví,10,40,180,Havlíčkův Brod
+102006954,Střední škola,C00,Na Valech 690,583 29 Chotěboř,583 29 Chotěboř,583 29,Chotěboř,Kraj Vysočina,2344L01,Mechanik strojů a zařízení,10,40,80,Havlíčkův Brod
+108047741,Střední škola,C00,Jana Masaryka 1560/1,586 01 Jihlava,586 01 Jihlava,586 01,Jihlava,Kraj Vysočina,7941K41,Gymnázium,10,40,340,Jihlava
+108047750,Střední škola,C00,Hradecká 235,Telč-Staré Město,588 56 Telč,588 56,Telč,Kraj Vysočina,6341M01,Ekonomika a podnikání,10,40,240,Jihlava
+108047920,Střední škola,C00,Jiráskova 1559/2,586 01 Jihlava,586 01 Jihlava,586 01,Jihlava,Kraj Vysočina,6341M01,Ekonomika a podnikání,10,40,200,Jihlava
+108047792,Střední škola,C00,třída Legionářů 1572/3,586 01 Jihlava,586 01 Jihlava,586 01,Jihlava,Kraj Vysočina,1820M01,Informační technologie,10,40,320,Jihlava
+108047938,Střední škola,C00,Křížová 124/18,586 01 Jihlava,586 01 Jihlava,586 01,Jihlava,Kraj Vysočina,8241M05,Grafický design,10,40,150,Jihlava
+044065663,Střední škola,C00,Otmarova 30/22,Jejkov,674 01 Třebíč,674 01,Třebíč,Kraj Vysočina,7941K41,Gymnázium,10,40,130,Třebíč
+044065485,Střední škola,C00,Tyršova 365,676 02 Moravské Budějovice,676 02 Moravské Budějovice,676 02,Moravské Budějovice,Kraj Vysočina,6843M01,Veřejnosprávní činnost,10,40,130,Třebíč
+000559237,Střední škola,C00,Masarykovo nám. 116/9,Horka-Domky,674 01 Třebíč,674 01,Třebíč,Kraj Vysočina,7941K41,Gymnázium,10,40,370,Třebíč
+000566900,Střední škola,C00,Žižkova 505/2,Podklášteří,674 01 Třebíč,674 01,Třebíč,Kraj Vysočina,4141M01,Agropodnikání,10,40,130,Třebíč
+000055069,Střední škola,C00,Tovačovského sady 79,676 02 Moravské Budějovice,676 02 Moravské Budějovice,676 02,Moravské Budějovice,Kraj Vysočina,2345L01,Mechanik seřizovač,10,40,120,Třebíč
+108027457,Střední škola,C00,U Klafárku 1685/3,Žďár nad Sázavou 3,591 01 Žďár nad Sázavou,591 01,Žďár nad Sázavou,Kraj Vysočina,7941K41,Gymnázium,10,40,300,Žďár nad Sázavou
+102943508,Střední škola,C00,Sokolovská 235/27,594 01 Velké Meziříčí,594 01 Velké Meziříčí,594 01,Velké Meziříčí,Kraj Vysočina,7941K41,Gymnázium,10,40,130,Žďár nad Sázavou
+102943494,Střední škola,C00,Leandra Čecha 152,592 31 Nové Město na Moravě,592 31 Nové Město na Moravě,592 31,Nové Město na Moravě,Kraj Vysočina,7941K41,Gymnázium,10,40,170,Žďár nad Sázavou
+102943516,Střední škola,C00,Neumannova 1693/2,Žďár nad Sázavou 4,591 01 Žďár nad Sázavou,591 01,Žďár nad Sázavou,Kraj Vysočina,7941K41,Gymnázium,10,40,255,Žďár nad Sázavou
+102943559,Střední škola,C00,Studentská 761/1,Žďár nad Sázavou 4,591 01 Žďár nad Sázavou,591 01,Žďár nad Sázavou,Kraj Vysočina,1820M01,Informační technologie,10,40,190,Žďár nad Sázavou
+102943486,Střední škola,C00,Nádražní 760,593 01 Bystřice nad Pernštejnem,593 01 Bystřice nad Pernštejnem,593 01,Bystřice nad Pernštejnem,Kraj Vysočina,7941K41,Gymnázium,10,40,120,Žďár nad Sázavou
+110026179,Střední škola,C00,Komenského 972/10,Žďár nad Sázavou 3,591 01 Žďár nad Sázavou,591 01,Žďár nad Sázavou,Kraj Vysočina,6341M02,Obchodní akademie,10,40,200,Žďár nad Sázavou
+110030559,Střední škola,C00,Masarykova 2033,580 01 Havlíčkův Brod,580 01 Havlíčkův Brod,580 01,Havlíčkův Brod,Kraj Vysočina,5341M01,Zdravotnický asistent,10,40,150,Havlíčkův Brod
+110031334,Střední škola,C00,Dvořákova 404/4,Žďár nad Sázavou 6,591 01 Žďár nad Sázavou,591 01,Žďár nad Sázavou,Kraj Vysočina,5341M01,Zdravotnický asistent,10,40,240,Žďár nad Sázavou
+108047946,Střední škola,C00,Znojemská 4447/76b,586 01 Jihlava,586 01 Jihlava,586 01,Jihlava,Kraj Vysočina,1601M01,Ekologie a životní prostředí,10,40,60,Jihlava
+110250591,Střední škola,C00,Manž. Curieových 734,Nové Dvory,674 01 Třebíč,674 01,Třebíč,Kraj Vysočina,1820M01,Informační technologie,10,40,210,Třebíč
+110250842,Střední škola,C00,Tyršova 239,595 01 Velká Bíteš,595 01 Velká Bíteš,595 01,Velká Bíteš,Kraj Vysočina,2345L01,Mechanik seřizovač,10,40,120,Žďár nad Sázavou
+181078988,Střední škola,C00,č.p. 203,675 01 Vladislav,675 01 Vladislav,675 01,Vladislav,Kraj Vysočina,4104M01,Rostlinolékařství,10,40,30,Třebíč
