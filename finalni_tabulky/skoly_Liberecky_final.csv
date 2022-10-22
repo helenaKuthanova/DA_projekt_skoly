@@ -1,98 +1,98 @@
 id,nazev,typ,adresa1,adresa2,adresa3,PSC,obec,kraj,obor_kod,obor_nazev,obor_forma,obor_delka,obor_kapacita,okres
-108019578,Střední škola,C00,Koněvova 100,Bohosudov,417 42 Krupka,417 42,Krupka,Ústecký kraj,7941K41,Gymnázium,10,40,100,Teplice
-047274719,Střední škola,C00,T. G. Masaryka 580,407 77 Šluknov,407 77 Šluknov,407 77,Šluknov,Ústecký kraj,1601M002,Ochrana přírody a prostředí,10,40,100,Děčín
-110017919,Střední škola,C00,Střelecká 1800,407 47 Varnsdorf,407 47 Varnsdorf,407 47,Varnsdorf,Ústecký kraj,7941K81,Gymnázium,10,80,320,Děčín
-047274611,Střední škola,C00,Komenského nám. 520/2,Děčín I-Děčín,405 02 Děčín,405 02,Děčín,Ústecký kraj,6341M02,Obchodní akademie,10,40,420,Děčín
-000497029,Střední škola,C00,Jiříkovská 840/4,Rumburk 1,408 01 Rumburk,408 01,Rumburk,Ústecký kraj,3441M01,Polygrafie,10,40,60,Děčín
-047274620,Střední škola,C00,Komenského nám. 340/4,Děčín I-Děčín,405 02 Děčín,405 02,Děčín,Ústecký kraj,7941K41,Gymnázium,10,40,300,Děčín
-018383874,Střední škola,C00,Bratislavská 2166,407 47 Varnsdorf,407 47 Varnsdorf,407 47,Varnsdorf,Ústecký kraj,1820M01,Informační technologie,10,40,440,Děčín
-047274654,Střední škola,C00,Českolipská 123,Děčín XXVII-Březiny,405 02 Děčín,405 02,Děčín,Ústecký kraj,4141M01,Agropodnikání,10,40,120,Děčín
-047274603,Střední škola,C00,Komenského 1130/10,Rumburk 1,408 01 Rumburk,408 01,Rumburk,Ústecký kraj,7941K41,Gymnázium,10,40,210,Děčín
-000081825,Střední škola,C00,Mostecká 3000,430 01 Chomutov,430 01 Chomutov,430 01,Chomutov,Ústecký kraj,7941K41,Gymnázium,10,40,380,Chomutov
-000081833,Střední škola,C00,5. května 620,432 01 Kadaň,432 01 Kadaň,432 01,Kadaň,Ústecký kraj,7941K401,Gymnázium - všeobecné,10,40,150,Chomutov
-000082104,Střední škola,C00,Komenského 562,432 01 Kadaň,432 01 Kadaň,432 01,Kadaň,Ústecký kraj,3645M01,Technická zařízení budov,10,40,120,Chomutov
-108030091,Střední škola,C00,Chomutovská 459,431 51 Klášterec nad Ohří,431 51 Klášterec nad Ohří,431 51,Klášterec nad Ohří,Ústecký kraj,7541M01,Sociální činnost,10,40,120,Chomutov
-107850079,Střední škola,C00,Pražská 702/10,430 01 Chomutov,430 01 Chomutov,430 01,Chomutov,Ústecký kraj,2345L01,Mechanik seřizovač,10,40,240,Chomutov
-000082015,Střední škola,C00,Komenského 754/3,Předměstí,412 01 Litoměřice,412 01,Litoměřice,Ústecký kraj,1820M01,Informační technologie,10,40,120,Litoměřice
-108043690,Střední škola,C00,Palackého 730/1,Předměstí,412 01 Litoměřice,412 01,Litoměřice,Ústecký kraj,6341M01,Ekonomika a podnikání,10,40,100,Litoměřice
-110013204,Střední škola,C00,Máchovy schody 13/4,Litoměřice-Město,412 01 Litoměřice,412 01,Litoměřice,Ústecký kraj,1820M01,Informační technologie,10,40,100,Litoměřice
-108043738,Střední škola,C00,Jarošova 494/23,Předměstí,412 01 Litoměřice,412 01,Litoměřice,Ústecký kraj,3356H01,Truhlář,10,30,90,Litoměřice
-107850541,Střední škola,C00,Osvoboditelů 1/2,410 02 Lovosice,410 02 Lovosice,410 02,Lovosice,Ústecký kraj,2368H01,Mechanik opravář motorových vozidel,10,30,90,Litoměřice
-000081876,Střední škola,C00,Svojsíkova 1015/1a,Předměstí,412 01 Litoměřice,412 01,Litoměřice,Ústecký kraj,7941K41,Gymnázium,10,40,305,Litoměřice
-000081990,Střední škola,C00,Havlíčkova 175,413 01 Roudnice nad Labem,413 01 Roudnice nad Labem,413 01,Roudnice nad Labem,Ústecký kraj,7941K401,Gymnázium - všeobecné,10,40,200,Litoměřice
-110035798,Střední škola,C00,Náměstí Jana z Dražic 169,413 01 Roudnice nad Labem,413 01 Roudnice nad Labem,413 01,Roudnice nad Labem,Ústecký kraj,6341M01,Ekonomika a podnikání,10,40,80,Litoměřice
-108043720,Střední škola,C00,Dlouhá 205/20,Litoměřice-Město,412 01 Litoměřice,412 01,Litoměřice,Ústecký kraj,6441L51,Podnikání,10,20,225,Litoměřice
-130000183,Střední škola,C00,Na Vinici 2244,Předměstí,412 01 Litoměřice,412 01,Litoměřice,Ústecký kraj,2951E01,Potravinářská výroba,10,30,35,Litoměřice
-000081884,Střední škola,C00,Sady pionýrů 600/6,410 02 Lovosice,410 02 Lovosice,410 02,Lovosice,Ústecký kraj,7941K401,Gymnázium - všeobecné,10,40,150,Litoměřice
-061357235,Střední škola,C00,Poděbradova 661,440 01 Louny,440 01 Louny,440 01,Louny,Ústecký kraj,7941K41,Gymnázium,10,40,125,Louny
-061357278,Střední škola,C00,Studentská 1075,438 01 Žatec,438 01 Žatec,438 01,Žatec,Ústecký kraj,7941K41,Gymnázium,10,40,130,Louny
-110032829,Střední škola,C00,Hošťálkovo náměstí 132,438 01 Žatec,438 01 Žatec,438 01,Žatec,Ústecký kraj,2951H01,Výrobce potravin,10,30,90,Louny
-018380824,Střední škola,C00,Kpt. Jaroše 862,441 01 Podbořany,441 01 Podbořany,441 01,Podbořany,Ústecký kraj,2341M01,Strojírenství,10,40,128,Louny
-061357294,Střední škola,C00,Studentská 1354,438 01 Žatec,438 01 Žatec,438 01,Žatec,Ústecký kraj,1601M01,Ekologie a životní prostředí,10,40,120,Louny
-045708797,Střední škola,C00,Svatováclavská 1404,438 01 Žatec,438 01 Žatec,438 01,Žatec,Ústecký kraj,3741M01,Provoz a ekonomika dopravy,10,40,80,Louny
-108040780,Střední škola,C00,Svatováclavská 1404,438 01 Žatec,438 01 Žatec,438 01,Žatec,Ústecký kraj,1820M01,Informační technologie,10,40,80,Louny
-110018061,Střední škola,C00,Ukrajinská 320,Horní Litvínov,436 01 Litvínov,436 01,Litvínov,Ústecký kraj,1601M01,Ekologie a životní prostředí,10,40,176,Most
-108006948,Střední škola,C00,Čsl. armády 1530/29,434 01 Most,434 01 Most,434 01,Most,Ústecký kraj,7941K41,Gymnázium,10,40,376,Most
-110020707,Střední škola,C00,Studentská 640,Horní Litvínov,436 01 Litvínov,436 01,Litvínov,Ústecký kraj,7941K41,Gymnázium,10,40,170,Most
-110018044,Střední škola,C00,Topolová 584,434 01 Most,434 01 Most,434 01,Most,Ústecký kraj,6341M01,Ekonomika a podnikání,10,40,180,Most
-110000030,Střední škola,C00,Pionýrů 2806/7,434 01 Most,434 01 Most,434 01,Most,Ústecký kraj,2343L51,Provozní technika,22,30,240,Most
-110034147,Střední škola,C00,Okružní 128,435 13 Meziboří,435 13 Meziboří,435 13,Meziboří,Ústecký kraj,1820M01,Informační technologie,10,40,140,Most
-108007057,Střední škola,C00,Pionýrů 2806/7,434 01 Most,434 01 Most,434 01,Most,Ústecký kraj,1820M01,Informační technologie,10,40,200,Most
-110018052,Střední škola,C00,Sklářská 81,Hamr,435 42 Litvínov,435 42,Litvínov,Ústecký kraj,6341L507,Podnikové hospodaření,22,30,138,Most
-108006930,Střední škola,C00,Jana Palacha 711/2,434 01 Most,434 01 Most,434 01,Most,Ústecký kraj,2341M01,Strojírenství,10,40,360,Most
-108007014,Střední škola,C00,Eduarda Basse 1142/9,434 01 Most,434 01 Most,434 01,Most,Ústecký kraj,6341M02,Obchodní akademie,10,40,240,Most
-108007049,Střední škola,C00,Františka Kmocha 1823,434 01 Most,434 01 Most,434 01,Most,Ústecký kraj,6542M01,Hotelnictví,10,40,250,Most
-000081922,Střední škola,C00,Čs. dobrovolců 530/11,415 01 Teplice,415 01 Teplice,415 01,Teplice,Ústecký kraj,7941K41,Gymnázium,10,40,590,Teplice
-102000654,Střední škola,C00,Bystřická 275/27,Bystřice,417 03 Dubí,417 03,Dubí,Ústecký kraj,7941K801,Gymnázium - všeobecné,10,80,160,Teplice
-000082198,Střední škola,C00,Masarykova 909/12,419 01 Duchcov,419 01 Duchcov,419 01,Duchcov,Ústecký kraj,2142M01,Geotechnika,22,50,90,Teplice
-107850486,Střední škola,C00,Fráni Šrámka 1350/1,Trnovany,415 01 Teplice,415 01,Teplice,Ústecký kraj,2351E01,Strojírenské práce,10,30,89,Teplice
-107850303,Střední škola,C00,Alejní 880/12,415 01 Teplice,415 01 Teplice,415 01,Teplice,Ústecký kraj,3159E01,Šití oděvů,10,30,102,Teplice
-107850427,Střední škola,C00,Rooseveltovo náměstí 5/5,Řetenice,415 03 Teplice,415 03,Teplice,Ústecký kraj,1820M01,Informační technologie,10,40,180,Teplice
-000081931,Střední škola,C00,Jateční 243/22,Klíše,400 01 Ústí nad Labem,400 01,Ústí nad Labem,Ústecký kraj,7941K41,Gymnázium,10,40,480,Ústí nad Labem
-000082201,Střední škola,C00,Resslova 210/5,Klíše,400 01 Ústí nad Labem,400 01,Ústí nad Labem,Ústecký kraj,1820M01,Informační technologie,10,40,270,Ústí nad Labem
-014867362,Střední škola,C00,Bělehradská 1523/58,Ústí nad Labem-centrum,400 11 Ústí nad Labem,400 11,Ústí nad Labem,Ústecký kraj,6941L01,Kosmetické služby,10,40,120,Ústí nad Labem
-047313129,Střední škola,C00,Velká Hradební 1025/19,Ústí nad Labem-centrum,400 01 Ústí nad Labem,400 01,Ústí nad Labem,Ústecký kraj,6551E02,Práce ve stravování,10,20,210,Ústí nad Labem
-000082627,Střední škola,C00,Keplerova 315/7,Krásné Březno,400 07 Ústí nad Labem,400 07,Ústí nad Labem,Ústecký kraj,2953H01,Pekař,10,30,90,Ústí nad Labem
-000082287,Střední škola,C00,Pařížská 1670/15,Ústí nad Labem-centrum,400 01 Ústí nad Labem,400 01,Ústí nad Labem,Ústecký kraj,6341M004,Obchodní akademie,10,40,621,Ústí nad Labem
-102789207,Střední škola,C00,Stavbařů 2857/5,Severní Terasa,400 11 Ústí nad Labem,400 11,Ústí nad Labem,Ústecký kraj,2844M01,Aplikovaná chemie,10,40,260,Ústí nad Labem
-110018095,Střední škola,C00,Máchova 1376/3,Střekov,400 03 Ústí nad Labem,400 03,Ústí nad Labem,Ústecký kraj,6842L51,Bezpečnostní služby,22,30,270,Ústí nad Labem
-110009614,Střední škola,C00,Čsl. mládeže 5/9,Děčín IV-Podmokly,405 02 Děčín,405 02,Děčín,Ústecký kraj,5341M01,Zdravotnický asistent,10,40,200,Děčín
-110010175,Střední škola,C00,Františka Nohy 959/6,Rumburk 1,408 01 Rumburk,408 01,Rumburk,Ústecký kraj,5341H01,Ošetřovatel,10,30,60,Děčín
-110031229,Střední škola,C00,Palachova 700/35,Klíše,400 01 Ústí nad Labem,400 01,Ústí nad Labem,Ústecký kraj,5341M01,Zdravotnický asistent,10,40,375,Ústí nad Labem
-047274689,Střední škola,C00,Čsl. armády 681/10,Děčín I-Děčín,405 02 Děčín,405 02,Děčín,Ústecký kraj,2341M01,Strojírenství,10,40,120,Děčín
-000082091,Střední škola,C00,Školní 1060/50,430 01 Chomutov,430 01 Chomutov,430 01,Chomutov,Ústecký kraj,2341M01,Strojírenství,10,40,60,Chomutov
-000082457,Střední škola,C00,Špindlerova třída 690,413 01 Roudnice nad Labem,413 01 Roudnice nad Labem,413 01,Roudnice nad Labem,Ústecký kraj,2345M01,Dopravní prostředky,10,40,240,Litoměřice
-000392669,Střední škola,C00,Kostelní 134,411 08 Štětí,411 08 Štětí,411 08,Štětí,Ústecký kraj,1820M01,Informační technologie,10,40,300,Litoměřice
-108006972,Střední škola,C00,Zdeňka Fibicha 2778/20,434 01 Most,434 01 Most,434 01,Most,Ústecký kraj,5341H01,Ošetřovatel,10,30,100,Most
-150068123,Střední škola,C00,Vilémovská 192,407 82 Dolní Poustevna,407 82 Dolní Poustevna,407 82,Dolní Poustevna,Ústecký kraj,7862C01,Praktická škola jednoletá,10,10,10,Děčín
-181080109,Střední škola,C00,Teplická 65,Děčín IX-Bynov,405 05 Děčín,405 05,Děčín,Ústecký kraj,7862C01,Praktická škola jednoletá,10,10,10,Děčín
-181042771,Střední škola,C00,Jakubské náměstí 113,407 21 Česká Kamenice,407 21 Česká Kamenice,407 21,Česká Kamenice,Ústecký kraj,7862C01,Praktická škola jednoletá,10,10,10,Děčín
-181025230,Střední škola,C00,Tyršova 710,407 77 Šluknov,407 77 Šluknov,407 77,Šluknov,Ústecký kraj,7862C01,Praktická škola jednoletá,10,10,22,Děčín
-108040771,Střední škola,C00,Svatopluka Čecha 2773,438 01 Žatec,438 01 Žatec,438 01,Žatec,Ústecký kraj,6954E01,Provozní služby,10,20,32,Louny
-181057522,Střední škola,C00,Šafaříkova 991,Horní Litvínov,436 01 Litvínov,436 01,Litvínov,Ústecký kraj,7862C01,Praktická škola jednoletá,10,10,24,Most
-110010680,Střední škola,C00,Jana Palacha 1534,434 01 Most,434 01 Most,434 01,Most,Ústecký kraj,7862C002,Praktická škola dvouletá,10,20,28,Most
-110036026,Střední škola,C00,Školní 624/1,419 01 Duchcov,419 01 Duchcov,419 01,Duchcov,Ústecký kraj,7862C002,Praktická škola dvouletá,10,20,24,Teplice
-110017650,Střední škola,C00,U Nových lázní 1286/9,415 01 Teplice,415 01 Teplice,415 01,Teplice,Ústecký kraj,7862C01,Praktická škola jednoletá,10,10,10,Teplice
-181023725,Střední škola,C00,Pod Parkem 2788/2,Severní Terasa,400 11 Ústí nad Labem,400 11,Ústí nad Labem,Ústecký kraj,7862C01,Praktická škola jednoletá,10,10,30,Ústí nad Labem
-110027752,Střední škola,C00,Vítězství 70,Děčín XXXII-Boletice nad Labem,407 11 Děčín,407 11,Děčín,Ústecký kraj,3667E02,Stavební práce,10,20,80,Děčín
-108043827,Střední škola,C00,č.p. 1,411 15 Dlažkovice,411 15 Dlažkovice,411 15,Dlažkovice,Ústecký kraj,7862C002,Praktická škola dvouletá,10,20,30,Litoměřice
-110033809,Střední škola,C00,Buškovice 203,441 01 Podbořany,441 01 Podbořany,441 01,Podbořany,Ústecký kraj,3664E01,Tesařské práce,10,30,36,Louny
-110020634,Střední škola,C00,Požárnická 168,417 54 Kostomlaty pod Milešovkou,417 54 Kostomlaty pod Milešovkou,417 54,Kostomlaty pod Milešovkou,Ústecký kraj,6551E02,Práce ve stravování,10,20,21,Teplice
-047274701,Střední škola,C00,Komenského 288,407 21 Česká Kamenice,407 21 Česká Kamenice,407 21,Česká Kamenice,Ústecký kraj,7941K81,Gymnázium,10,80,240,Děčín
-040230457,Střední škola,C00,Mostecká 309,431 11 Jirkov,431 11 Jirkov,431 11,Jirkov,Ústecký kraj,7941K41,Gymnázium,10,40,100,Chomutov
-181015692,Střední škola,C00,Karla Čapka 270,Maršov,417 42 Krupka,417 42,Krupka,Ústecký kraj,2857E01,Keramická výroba,10,30,51,Teplice
-110027795,Střední škola,C00,Dělnická 825/15,Děčín VI-Letná,405 02 Děčín,405 02,Děčín,Ústecký kraj,2345L01,Mechanik seřizovač,10,40,96,Děčín
-000556807,Střední škola,C00,Ruská 147/46,Děčín IV-Podmokly,405 02 Děčín,405 02,Děčín,Ústecký kraj,2368H01,Mechanik opravář motorových vozidel,10,30,145,Děčín
-130002054,Střední škola,C00,Na Průhoně 4800,430 03 Chomutov,430 03 Chomutov,430 03,Chomutov,Ústecký kraj,2351H01,Strojní mechanik,10,30,102,Chomutov
-014451042,Střední škola,C00,Osvoboditelů 380,440 01 Louny,440 01 Louny,440 01,Louny,Ústecký kraj,2341M01,Strojírenství,10,40,120,Louny
-108006891,Střední škola,C00,Dělnická 21,Velebudice,434 01 Most,434 01,Most,Ústecký kraj,2345L01,Mechanik seřizovač,10,40,120,Most
-130002241,Střední škola,C00,Mládežnická 236,Hamr,435 42 Litvínov,435 42,Litvínov,Ústecký kraj,3158H01,Krejčí,10,30,72,Most
-102000638,Střední škola,C00,Benešovo náměstí 604/1,415 01 Teplice,415 01 Teplice,415 01,Teplice,Ústecký kraj,1820M01,Informační technologie,10,40,250,Teplice
-130001767,Střední škola,C00,Čelakovského 250/5,Krásné Březno,400 07 Ústí nad Labem,400 07,Ústí nad Labem,Ústecký kraj,2345L01,Mechanik seřizovač,10,40,100,Ústí nad Labem
-110150414,Střední škola,C00,Neklanova 1806,413 01 Roudnice nad Labem,413 01 Roudnice nad Labem,413 01,Roudnice nad Labem,Ústecký kraj,2343L51,Provozní technika,10,20,60,Litoměřice
-110150511,Střední škola,C00,Šaldova 657/6,Předměstí,412 01 Litoměřice,412 01,Litoměřice,Ústecký kraj,7862C02,Praktická škola dvouletá,10,20,60,Litoměřice
-150002785,Střední škola,C00,č.p. 66,431 58 Místo,431 58 Místo,431 58,Místo,Ústecký kraj,4152E02,Zahradnická výroba,10,20,24,Chomutov
-181007282,Střední škola,C00,Aloise Jiráska 1887/3,434 01 Most,434 01 Most,434 01,Most,Ústecký kraj,6441L51,Podnikání,30,30,120,Most
-181068281,Střední škola,C00,č.p. 166,439 05 Panenský Týnec,439 05 Panenský Týnec,439 05,Panenský Týnec,Ústecký kraj,3358E01,Zpracovatel přírodních pletiv,10,30,40,Louny
-181075849,Střední škola,C00,Říční 1774,407 47 Varnsdorf,407 47 Varnsdorf,407 47,Varnsdorf,Ústecký kraj,2155H01,Slévač,10,30,24,Děčín
-181118891,Střední škola,C00,Ukrajinská 453,Horní Litvínov,436 01 Litvínov,436 01,Litvínov,Ústecký kraj,2341M01,Strojírenství,10,40,80,Most
+108019578,Střední škola,C00,Koněvova 100,Bohosudov,417 42 Krupka,417 42,Krupka,Liberecký kraj,7941K41,Gymnázium,10,40,100,Teplice
+47274719,Střední škola,C00,T. G. Masaryka 580,407 77 Šluknov,407 77 Šluknov,407 77,Šluknov,Liberecký kraj,1601M002,Ochrana přírody a prostředí,10,40,100,Děčín
+110017919,Střední škola,C00,Střelecká 1800,407 47 Varnsdorf,407 47 Varnsdorf,407 47,Varnsdorf,Liberecký kraj,7941K81,Gymnázium,10,80,320,Děčín
+47274611,Střední škola,C00,Komenského nám. 520/2,Děčín I-Děčín,405 02 Děčín,405 02,Děčín,Liberecký kraj,6341M02,Obchodní akademie,10,40,420,Děčín
+497029,Střední škola,C00,Jiříkovská 840/4,Rumburk 1,408 01 Rumburk,408 01,Rumburk,Liberecký kraj,3441M01,Polygrafie,10,40,60,Děčín
+47274620,Střední škola,C00,Komenského nám. 340/4,Děčín I-Děčín,405 02 Děčín,405 02,Děčín,Liberecký kraj,7941K41,Gymnázium,10,40,300,Děčín
+18383874,Střední škola,C00,Bratislavská 2166,407 47 Varnsdorf,407 47 Varnsdorf,407 47,Varnsdorf,Liberecký kraj,1820M01,Informační technologie,10,40,440,Děčín
+47274654,Střední škola,C00,Českolipská 123,Děčín XXVII-Březiny,405 02 Děčín,405 02,Děčín,Liberecký kraj,4141M01,Agropodnikání,10,40,120,Děčín
+47274603,Střední škola,C00,Komenského 1130/10,Rumburk 1,408 01 Rumburk,408 01,Rumburk,Liberecký kraj,7941K41,Gymnázium,10,40,210,Děčín
+81825,Střední škola,C00,Mostecká 3000,430 01 Chomutov,430 01 Chomutov,430 01,Chomutov,Liberecký kraj,7941K41,Gymnázium,10,40,380,Chomutov
+81833,Střední škola,C00,5. května 620,432 01 Kadaň,432 01 Kadaň,432 01,Kadaň,Liberecký kraj,7941K401,Gymnázium - všeobecné,10,40,150,Chomutov
+82104,Střední škola,C00,Komenského 562,432 01 Kadaň,432 01 Kadaň,432 01,Kadaň,Liberecký kraj,3645M01,Technická zařízení budov,10,40,120,Chomutov
+108030091,Střední škola,C00,Chomutovská 459,431 51 Klášterec nad Ohří,431 51 Klášterec nad Ohří,431 51,Klášterec nad Ohří,Liberecký kraj,7541M01,Sociální činnost,10,40,120,Chomutov
+107850079,Střední škola,C00,Pražská 702/10,430 01 Chomutov,430 01 Chomutov,430 01,Chomutov,Liberecký kraj,2345L01,Mechanik seřizovač,10,40,240,Chomutov
+82015,Střední škola,C00,Komenského 754/3,Předměstí,412 01 Litoměřice,412 01,Litoměřice,Liberecký kraj,1820M01,Informační technologie,10,40,120,Litoměřice
+108043690,Střední škola,C00,Palackého 730/1,Předměstí,412 01 Litoměřice,412 01,Litoměřice,Liberecký kraj,6341M01,Ekonomika a podnikání,10,40,100,Litoměřice
+110013204,Střední škola,C00,Máchovy schody 13/4,Litoměřice-Město,412 01 Litoměřice,412 01,Litoměřice,Liberecký kraj,1820M01,Informační technologie,10,40,100,Litoměřice
+108043738,Střední škola,C00,Jarošova 494/23,Předměstí,412 01 Litoměřice,412 01,Litoměřice,Liberecký kraj,3356H01,Truhlář,10,30,90,Litoměřice
+107850541,Střední škola,C00,Osvoboditelů 1/2,410 02 Lovosice,410 02 Lovosice,410 02,Lovosice,Liberecký kraj,2368H01,Mechanik opravář motorových vozidel,10,30,90,Litoměřice
+81876,Střední škola,C00,Svojsíkova 1015/1a,Předměstí,412 01 Litoměřice,412 01,Litoměřice,Liberecký kraj,7941K41,Gymnázium,10,40,305,Litoměřice
+81990,Střední škola,C00,Havlíčkova 175,413 01 Roudnice nad Labem,413 01 Roudnice nad Labem,413 01,Roudnice nad Labem,Liberecký kraj,7941K401,Gymnázium - všeobecné,10,40,200,Litoměřice
+110035798,Střední škola,C00,Náměstí Jana z Dražic 169,413 01 Roudnice nad Labem,413 01 Roudnice nad Labem,413 01,Roudnice nad Labem,Liberecký kraj,6341M01,Ekonomika a podnikání,10,40,80,Litoměřice
+108043720,Střední škola,C00,Dlouhá 205/20,Litoměřice-Město,412 01 Litoměřice,412 01,Litoměřice,Liberecký kraj,6441L51,Podnikání,10,20,225,Litoměřice
+130000183,Střední škola,C00,Na Vinici 2244,Předměstí,412 01 Litoměřice,412 01,Litoměřice,Liberecký kraj,29510,Potravinářská výroba,10,30,35,Litoměřice
+81884,Střední škola,C00,Sady pionýrů 600/6,410 02 Lovosice,410 02 Lovosice,410 02,Lovosice,Liberecký kraj,7941K401,Gymnázium - všeobecné,10,40,150,Litoměřice
+61357235,Střední škola,C00,Poděbradova 661,440 01 Louny,440 01 Louny,440 01,Louny,Liberecký kraj,7941K41,Gymnázium,10,40,125,Louny
+61357278,Střední škola,C00,Studentská 1075,438 01 Žatec,438 01 Žatec,438 01,Žatec,Liberecký kraj,7941K41,Gymnázium,10,40,130,Louny
+110032829,Střední škola,C00,Hošťálkovo náměstí 132,438 01 Žatec,438 01 Žatec,438 01,Žatec,Liberecký kraj,2951H01,Výrobce potravin,10,30,90,Louny
+18380824,Střední škola,C00,Kpt. Jaroše 862,441 01 Podbořany,441 01 Podbořany,441 01,Podbořany,Liberecký kraj,2341M01,Strojírenství,10,40,128,Louny
+61357294,Střední škola,C00,Studentská 1354,438 01 Žatec,438 01 Žatec,438 01,Žatec,Liberecký kraj,1601M01,Ekologie a životní prostředí,10,40,120,Louny
+45708797,Střední škola,C00,Svatováclavská 1404,438 01 Žatec,438 01 Žatec,438 01,Žatec,Liberecký kraj,3741M01,Provoz a ekonomika dopravy,10,40,80,Louny
+108040780,Střední škola,C00,Svatováclavská 1404,438 01 Žatec,438 01 Žatec,438 01,Žatec,Liberecký kraj,1820M01,Informační technologie,10,40,80,Louny
+110018061,Střední škola,C00,Ukrajinská 320,Horní Litvínov,436 01 Litvínov,436 01,Litvínov,Liberecký kraj,1601M01,Ekologie a životní prostředí,10,40,176,Most
+108006948,Střední škola,C00,Čsl. armády 1530/29,434 01 Most,434 01 Most,434 01,Most,Liberecký kraj,7941K41,Gymnázium,10,40,376,Most
+110020707,Střední škola,C00,Studentská 640,Horní Litvínov,436 01 Litvínov,436 01,Litvínov,Liberecký kraj,7941K41,Gymnázium,10,40,170,Most
+110018044,Střední škola,C00,Topolová 584,434 01 Most,434 01 Most,434 01,Most,Liberecký kraj,6341M01,Ekonomika a podnikání,10,40,180,Most
+110000030,Střední škola,C00,Pionýrů 2806/7,434 01 Most,434 01 Most,434 01,Most,Liberecký kraj,2343L51,Provozní technika,22,30,240,Most
+110034147,Střední škola,C00,Okružní 128,435 13 Meziboří,435 13 Meziboří,435 13,Meziboří,Liberecký kraj,1820M01,Informační technologie,10,40,140,Most
+108007057,Střední škola,C00,Pionýrů 2806/7,434 01 Most,434 01 Most,434 01,Most,Liberecký kraj,1820M01,Informační technologie,10,40,200,Most
+110018052,Střední škola,C00,Sklářská 81,Hamr,435 42 Litvínov,435 42,Litvínov,Liberecký kraj,6341L507,Podnikové hospodaření,22,30,138,Most
+108006930,Střední škola,C00,Jana Palacha 711/2,434 01 Most,434 01 Most,434 01,Most,Liberecký kraj,2341M01,Strojírenství,10,40,360,Most
+108007014,Střední škola,C00,Eduarda Basse 1142/9,434 01 Most,434 01 Most,434 01,Most,Liberecký kraj,6341M02,Obchodní akademie,10,40,240,Most
+108007049,Střední škola,C00,Františka Kmocha 1823,434 01 Most,434 01 Most,434 01,Most,Liberecký kraj,6542M01,Hotelnictví,10,40,250,Most
+81922,Střední škola,C00,Čs. dobrovolců 530/11,415 01 Teplice,415 01 Teplice,415 01,Teplice,Liberecký kraj,7941K41,Gymnázium,10,40,590,Teplice
+102000654,Střední škola,C00,Bystřická 275/27,Bystřice,417 03 Dubí,417 03,Dubí,Liberecký kraj,7941K801,Gymnázium - všeobecné,10,80,160,Teplice
+82198,Střední škola,C00,Masarykova 909/12,419 01 Duchcov,419 01 Duchcov,419 01,Duchcov,Liberecký kraj,2142M01,Geotechnika,22,50,90,Teplice
+107850486,Střední škola,C00,Fráni Šrámka 1350/1,Trnovany,415 01 Teplice,415 01,Teplice,Liberecký kraj,23510,Strojírenské práce,10,30,89,Teplice
+107850303,Střední škola,C00,Alejní 880/12,415 01 Teplice,415 01 Teplice,415 01,Teplice,Liberecký kraj,31590,Šití oděvů,10,30,102,Teplice
+107850427,Střední škola,C00,Rooseveltovo náměstí 5/5,Řetenice,415 03 Teplice,415 03,Teplice,Liberecký kraj,1820M01,Informační technologie,10,40,180,Teplice
+81931,Střední škola,C00,Jateční 243/22,Klíše,400 01 Ústí nad Labem,400 01,Ústí nad Labem,Liberecký kraj,7941K41,Gymnázium,10,40,480,Ústí nad Labem
+82201,Střední škola,C00,Resslova 210/5,Klíše,400 01 Ústí nad Labem,400 01,Ústí nad Labem,Liberecký kraj,1820M01,Informační technologie,10,40,270,Ústí nad Labem
+14867362,Střední škola,C00,Bělehradská 1523/58,Ústí nad Labem-centrum,400 11 Ústí nad Labem,400 11,Ústí nad Labem,Liberecký kraj,6941L01,Kosmetické služby,10,40,120,Ústí nad Labem
+47313129,Střední škola,C00,Velká Hradební 1025/19,Ústí nad Labem-centrum,400 01 Ústí nad Labem,400 01,Ústí nad Labem,Liberecký kraj,655100,Práce ve stravování,10,20,210,Ústí nad Labem
+82627,Střední škola,C00,Keplerova 315/7,Krásné Březno,400 07 Ústí nad Labem,400 07,Ústí nad Labem,Liberecký kraj,2953H01,Pekař,10,30,90,Ústí nad Labem
+82287,Střední škola,C00,Pařížská 1670/15,Ústí nad Labem-centrum,400 01 Ústí nad Labem,400 01,Ústí nad Labem,Liberecký kraj,6341M004,Obchodní akademie,10,40,621,Ústí nad Labem
+102789207,Střední škola,C00,Stavbařů 2857/5,Severní Terasa,400 11 Ústí nad Labem,400 11,Ústí nad Labem,Liberecký kraj,2844M01,Aplikovaná chemie,10,40,260,Ústí nad Labem
+110018095,Střední škola,C00,Máchova 1376/3,Střekov,400 03 Ústí nad Labem,400 03,Ústí nad Labem,Liberecký kraj,6842L51,Bezpečnostní služby,22,30,270,Ústí nad Labem
+110009614,Střední škola,C00,Čsl. mládeže 5/9,Děčín IV-Podmokly,405 02 Děčín,405 02,Děčín,Liberecký kraj,5341M01,Zdravotnický asistent,10,40,200,Děčín
+110010175,Střední škola,C00,Františka Nohy 959/6,Rumburk 1,408 01 Rumburk,408 01,Rumburk,Liberecký kraj,5341H01,Ošetřovatel,10,30,60,Děčín
+110031229,Střední škola,C00,Palachova 700/35,Klíše,400 01 Ústí nad Labem,400 01,Ústí nad Labem,Liberecký kraj,5341M01,Zdravotnický asistent,10,40,375,Ústí nad Labem
+47274689,Střední škola,C00,Čsl. armády 681/10,Děčín I-Děčín,405 02 Děčín,405 02,Děčín,Liberecký kraj,2341M01,Strojírenství,10,40,120,Děčín
+82091,Střední škola,C00,Školní 1060/50,430 01 Chomutov,430 01 Chomutov,430 01,Chomutov,Liberecký kraj,2341M01,Strojírenství,10,40,60,Chomutov
+82457,Střední škola,C00,Špindlerova třída 690,413 01 Roudnice nad Labem,413 01 Roudnice nad Labem,413 01,Roudnice nad Labem,Liberecký kraj,2345M01,Dopravní prostředky,10,40,240,Litoměřice
+392669,Střední škola,C00,Kostelní 134,411 08 Štětí,411 08 Štětí,411 08,Štětí,Liberecký kraj,1820M01,Informační technologie,10,40,300,Litoměřice
+108006972,Střední škola,C00,Zdeňka Fibicha 2778/20,434 01 Most,434 01 Most,434 01,Most,Liberecký kraj,5341H01,Ošetřovatel,10,30,100,Most
+150068123,Střední škola,C00,Vilémovská 192,407 82 Dolní Poustevna,407 82 Dolní Poustevna,407 82,Dolní Poustevna,Liberecký kraj,7862C01,Praktická škola jednoletá,10,10,10,Děčín
+181080109,Střední škola,C00,Teplická 65,Děčín IX-Bynov,405 05 Děčín,405 05,Děčín,Liberecký kraj,7862C01,Praktická škola jednoletá,10,10,10,Děčín
+181042771,Střední škola,C00,Jakubské náměstí 113,407 21 Česká Kamenice,407 21 Česká Kamenice,407 21,Česká Kamenice,Liberecký kraj,7862C01,Praktická škola jednoletá,10,10,10,Děčín
+181025230,Střední škola,C00,Tyršova 710,407 77 Šluknov,407 77 Šluknov,407 77,Šluknov,Liberecký kraj,7862C01,Praktická škola jednoletá,10,10,22,Děčín
+108040771,Střední škola,C00,Svatopluka Čecha 2773,438 01 Žatec,438 01 Žatec,438 01,Žatec,Liberecký kraj,69540,Provozní služby,10,20,32,Louny
+181057522,Střední škola,C00,Šafaříkova 991,Horní Litvínov,436 01 Litvínov,436 01,Litvínov,Liberecký kraj,7862C01,Praktická škola jednoletá,10,10,24,Most
+110010680,Střední škola,C00,Jana Palacha 1534,434 01 Most,434 01 Most,434 01,Most,Liberecký kraj,7862C002,Praktická škola dvouletá,10,20,28,Most
+110036026,Střední škola,C00,Školní 624/1,419 01 Duchcov,419 01 Duchcov,419 01,Duchcov,Liberecký kraj,7862C002,Praktická škola dvouletá,10,20,24,Teplice
+110017650,Střední škola,C00,U Nových lázní 1286/9,415 01 Teplice,415 01 Teplice,415 01,Teplice,Liberecký kraj,7862C01,Praktická škola jednoletá,10,10,10,Teplice
+181023725,Střední škola,C00,Pod Parkem 2788/2,Severní Terasa,400 11 Ústí nad Labem,400 11,Ústí nad Labem,Liberecký kraj,7862C01,Praktická škola jednoletá,10,10,30,Ústí nad Labem
+110027752,Střední škola,C00,Vítězství 70,Děčín XXXII-Boletice nad Labem,407 11 Děčín,407 11,Děčín,Liberecký kraj,366700,Stavební práce,10,20,80,Děčín
+108043827,Střední škola,C00,č.p. 1,411 15 Dlažkovice,411 15 Dlažkovice,411 15,Dlažkovice,Liberecký kraj,7862C002,Praktická škola dvouletá,10,20,30,Litoměřice
+110033809,Střední škola,C00,Buškovice 203,441 01 Podbořany,441 01 Podbořany,441 01,Podbořany,Liberecký kraj,36640,Tesařské práce,10,30,36,Louny
+110020634,Střední škola,C00,Požárnická 168,417 54 Kostomlaty pod Milešovkou,417 54 Kostomlaty pod Milešovkou,417 54,Kostomlaty pod Milešovkou,Liberecký kraj,655100,Práce ve stravování,10,20,21,Teplice
+47274701,Střední škola,C00,Komenského 288,407 21 Česká Kamenice,407 21 Česká Kamenice,407 21,Česká Kamenice,Liberecký kraj,7941K81,Gymnázium,10,80,240,Děčín
+40230457,Střední škola,C00,Mostecká 309,431 11 Jirkov,431 11 Jirkov,431 11,Jirkov,Liberecký kraj,7941K41,Gymnázium,10,40,100,Chomutov
+181015692,Střední škola,C00,Karla Čapka 270,Maršov,417 42 Krupka,417 42,Krupka,Liberecký kraj,28570,Keramická výroba,10,30,51,Teplice
+110027795,Střední škola,C00,Dělnická 825/15,Děčín VI-Letná,405 02 Děčín,405 02,Děčín,Liberecký kraj,2345L01,Mechanik seřizovač,10,40,96,Děčín
+556807,Střední škola,C00,Ruská 147/46,Děčín IV-Podmokly,405 02 Děčín,405 02,Děčín,Liberecký kraj,2368H01,Mechanik opravář motorových vozidel,10,30,145,Děčín
+130002054,Střední škola,C00,Na Průhoně 4800,430 03 Chomutov,430 03 Chomutov,430 03,Chomutov,Liberecký kraj,2351H01,Strojní mechanik,10,30,102,Chomutov
+14451042,Střední škola,C00,Osvoboditelů 380,440 01 Louny,440 01 Louny,440 01,Louny,Liberecký kraj,2341M01,Strojírenství,10,40,120,Louny
+108006891,Střední škola,C00,Dělnická 21,Velebudice,434 01 Most,434 01,Most,Liberecký kraj,2345L01,Mechanik seřizovač,10,40,120,Most
+130002241,Střední škola,C00,Mládežnická 236,Hamr,435 42 Litvínov,435 42,Litvínov,Liberecký kraj,3158H01,Krejčí,10,30,72,Most
+102000638,Střední škola,C00,Benešovo náměstí 604/1,415 01 Teplice,415 01 Teplice,415 01,Teplice,Liberecký kraj,1820M01,Informační technologie,10,40,250,Teplice
+130001767,Střední škola,C00,Čelakovského 250/5,Krásné Březno,400 07 Ústí nad Labem,400 07,Ústí nad Labem,Liberecký kraj,2345L01,Mechanik seřizovač,10,40,100,Ústí nad Labem
+110150414,Střední škola,C00,Neklanova 1806,413 01 Roudnice nad Labem,413 01 Roudnice nad Labem,413 01,Roudnice nad Labem,Liberecký kraj,2343L51,Provozní technika,10,20,60,Litoměřice
+110150511,Střední škola,C00,Šaldova 657/6,Předměstí,412 01 Litoměřice,412 01,Litoměřice,Liberecký kraj,7862C02,Praktická škola dvouletá,10,20,60,Litoměřice
+150002785,Střední škola,C00,č.p. 66,431 58 Místo,431 58 Místo,431 58,Místo,Liberecký kraj,415200,Zahradnická výroba,10,20,24,Chomutov
+181007282,Střední škola,C00,Aloise Jiráska 1887/3,434 01 Most,434 01 Most,434 01,Most,Liberecký kraj,6441L51,Podnikání,30,30,120,Most
+181068281,Střední škola,C00,č.p. 166,439 05 Panenský Týnec,439 05 Panenský Týnec,439 05,Panenský Týnec,Liberecký kraj,33580,Zpracovatel přírodních pletiv,10,30,40,Louny
+181075849,Střední škola,C00,Říční 1774,407 47 Varnsdorf,407 47 Varnsdorf,407 47,Varnsdorf,Liberecký kraj,2155H01,Slévač,10,30,24,Děčín
+181118891,Střední škola,C00,Ukrajinská 453,Horní Litvínov,436 01 Litvínov,436 01,Litvínov,Liberecký kraj,2341M01,Strojírenství,10,40,80,Most
