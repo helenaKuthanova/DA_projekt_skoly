@@ -1,0 +1,32 @@
+id,nazev,typ,adresa1,adresa2,adresa3,PSC,obec,kraj,obor_kod,obor_nazev,obor_forma,obor_delka,obor_kapacita,okres
+000519324,Střední škola,C00,Hlavní 2514/106,352 01 Aš,352 01 Aš,352 01,Aš,Karlovarský kraj,7941K81,Gymnázium,10,80,240,Cheb
+000478423,Střední škola,C00,Ruská 355/7,353 01 Mariánské Lázně,353 01 Mariánské Lázně,353 01,Mariánské Lázně,Karlovarský kraj,6341M02,Obchodní akademie,10,40,370,Cheb
+000076953,Střední škola,C00,Nerudova 2283/7,350 02 Cheb,350 02 Cheb,350 02,Cheb,Karlovarský kraj,7941K41,Gymnázium,10,40,408,Cheb
+000077119,Střední škola,C00,Komenského 449/2,353 01 Mariánské Lázně,353 01 Mariánské Lázně,353 01,Mariánské Lázně,Karlovarský kraj,6541L51,Gastronomie,10,20,60,Cheb
+108015769,Střední škola,C00,Jánské náměstí 256/15,350 02 Cheb,350 02 Cheb,350 02,Cheb,Karlovarský kraj,7941K81,Gymnázium,10,80,150,Cheb
+000077127,Střední škola,C00,Klínovecká 1197,363 01 Ostrov,363 01 Ostrov,363 01,Ostrov,Karlovarský kraj,1820M01,Informační technologie,10,40,136,Karlovy Vary
+000520055,Střední škola,C00,Ondřejská 1122/56,360 01 Karlovy Vary,360 01 Karlovy Vary,360 01,Karlovy Vary,Karlovarský kraj,2954H01,Cukrář,10,30,66,Karlovy Vary
+049753789,Střední škola,C00,Lidická 455/40,Drahovice,360 01 Karlovy Vary,360 01,Karlovy Vary,Karlovarský kraj,7531M01,Předškolní a mimoškolní pedagogika,10,40,272,Karlovy Vary
+000077224,Střední škola,C00,Bezručova 1312/17,360 01 Karlovy Vary,360 01 Karlovy Vary,360 01,Karlovy Vary,Karlovarský kraj,6341M02,Obchodní akademie,10,40,272,Karlovy Vary
+000077135,Střední škola,C00,nám. 17. listopadu 710/12,Rybáře,360 05 Karlovy Vary,360 05,Karlovy Vary,Karlovarský kraj,1601M01,Ekologie a životní prostředí,10,40,136,Karlovy Vary
+049752391,Střední škola,C00,nám. V. Řezáče 136/5,Drahovice,360 01 Karlovy Vary,360 01,Karlovy Vary,Karlovarský kraj,6341M02,Obchodní akademie,10,40,160,Karlovy Vary
+042840431,Střední škola,C00,Konečná 908/21,Rybáře,360 05 Karlovy Vary,360 05,Karlovy Vary,Karlovarský kraj,2343L51,Provozní technika,10,20,40,Karlovy Vary
+000076970,Střední škola,C00,Národní 445/25,Drahovice,360 01 Karlovy Vary,360 01,Karlovy Vary,Karlovarský kraj,7941K41,Gymnázium,10,40,272,Karlovy Vary
+000077305,Střední škola,C00,Žižkov 345,364 52 Žlutice,364 52 Žlutice,364 52,Žlutice,Karlovarský kraj,4146M01,Lesnictví,10,40,160,Karlovy Vary
+049753771,Střední škola,C00,Studentská 1205,363 01 Ostrov,363 01 Ostrov,363 01,Ostrov,Karlovarský kraj,7941K41,Gymnázium,10,40,225,Karlovy Vary
+110035381,Střední škola,C00,Hlavní 114/29,362 63 Dalovice,362 63 Dalovice,362 63,Dalovice,Karlovarský kraj,3741M01,Provoz a ekonomika dopravy,10,40,240,Karlovy Vary
+000669725,Střední škola,C00,nám. K. Sabiny 159/16,Drahovice,360 01 Karlovy Vary,360 01,Karlovy Vary,Karlovarský kraj,2351H01,Strojní mechanik,10,30,36,Karlovy Vary
+049767194,Střední škola,C00,Husitská 2053,356 01 Sokolov,356 01 Sokolov,356 01,Sokolov,Karlovarský kraj,1602M01,Průmyslová ekologie,10,40,132,Sokolov
+049790820,Střední škola,C00,Hornická 1569,356 01 Sokolov,356 01 Sokolov,356 01,Sokolov,Karlovarský kraj,6341M02,Obchodní akademie,10,40,200,Sokolov
+110009711,Střední škola,C00,Hradební 58/10,350 02 Cheb,350 02 Cheb,350 02,Cheb,Karlovarský kraj,5341H01,Ošetřovatel,10,30,102,Cheb
+110030672,Střední škola,C00,Poděbradská 1247/2,360 01 Karlovy Vary,360 01 Karlovy Vary,360 01,Karlovy Vary,Karlovarský kraj,5341H01,Ošetřovatel,10,30,90,Karlovy Vary
+000872326,Střední škola,C00,Vančurova 83/2,Stará Role,360 17 Karlovy Vary,360 17,Karlovy Vary,Karlovarský kraj,2857E01,Keramická výroba,10,30,42,Karlovy Vary
+110100689,Střední škola,C00,Studentská 1612/13,352 01 Aš,352 01 Aš,352 01,Aš,Karlovarský kraj,2351E01,Strojírenské práce,10,30,36,Cheb
+181025906,Střední škola,C00,Havlíčkova 1717,358 01 Kraslice,358 01 Kraslice,358 01,Kraslice,Karlovarský kraj,2345L01,Mechanik seřizovač,10,40,45,Sokolov
+130002046,Střední škola,C00,Obrněné brigády 2258/6,350 02 Cheb,350 02 Cheb,350 02,Cheb,Karlovarský kraj,1820M01,Informační technologie,10,40,260,Cheb
+049766929,Střední škola,C00,Jednoty 1620,356 01 Sokolov,356 01 Sokolov,356 01,Sokolov,Karlovarský kraj,1820M01,Informační technologie,10,40,420,Sokolov
+151017697,Střední škola,C00,Mánesova 1672,356 01 Sokolov,356 01 Sokolov,356 01,Sokolov,Karlovarský kraj,7941K41,Gymnázium,10,40,96,Sokolov
+150003978,Střední škola,C00,T. G. Masaryka 559/1,360 01 Karlovy Vary,360 01 Karlovy Vary,360 01,Karlovy Vary,Karlovarský kraj,6842L51,Bezpečnostní služby,22,30,200,Karlovy Vary
+151011494,Střední škola,C00,č.p. 569,353 01 Mariánské Lázně,353 01 Mariánské Lázně,353 01,Mariánské Lázně,Karlovarský kraj,4143M02,Chovatelství,10,40,150,Cheb
+151012997,Střední škola,C00,Žákovská 716,356 01 Sokolov,356 01 Sokolov,356 01,Sokolov,Karlovarský kraj,2951E01,Potravinářská výroba,10,30,90,Sokolov
+181076641,Střední škola,C00,Husova 992,362 51 Jáchymov,362 51 Jáchymov,362 51,Jáchymov,Karlovarský kraj,6954E01,Provozní služby,10,20,120,Karlovy Vary
