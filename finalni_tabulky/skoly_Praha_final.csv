@@ -1,0 +1,128 @@
+id,nazev,typ,adresa1,adresa2,adresa3,obec,kraj,obor_kod,obor_nazev,obor_forma,obor_delka,obor_kapacita,okres
+000638447,Střední škola,C00,Dušní 1083/7,Staré Město,110 00 Praha 1,Praha 1,Hlavní město Praha,1820M01,Informační technologie,10,40,250,Praha 1
+061388866,Střední škola,C00,Panská 856/3,Nové Město,110 00 Praha 1,Praha 1,Hlavní město Praha,2645M01,Telekomunikace,10,40,310,Praha 1
+000638595,Střední škola,C00,Hellichova 535/22,Malá Strana,118 00 Praha 1,Praha 1,Hlavní město Praha,3441M01,Polygrafie,10,40,180,Praha 1
+061388726,Střední škola,C00,Dušní 900/17,Staré Město,110 00 Praha 1,Praha 1,Hlavní město Praha,3647M01,Stavebnictví,10,40,540,Praha 1
+061387002,Střední škola,C00,U Půjčovny 1274/9,Nové Město,110 00 Praha 1,Praha 1,Hlavní město Praha,8241M07,Modelářství a návrhářství oděvů,10,40,70,Praha 1
+013094394,Střední škola,C00,Pštrossova 203/13,Nové Město,110 00 Praha 1,Praha 1,Hlavní město Praha,7941K41,Gymnázium,10,40,200,Praha 1
+000638293,Střední škola,C00,Masná 1000/18,Staré Město,110 00 Praha 1,Praha 1,Hlavní město Praha,2345M01,Dopravní prostředky,10,40,120,Praha 1
+000638307,Střední škola,C00,Křemencova 179/12,Nové Město,110 00 Praha 1,Praha 1,Hlavní město Praha,2844M01,Aplikovaná chemie,10,40,420,Praha 1
+110032641,Střední škola,C00,Betlémská 287/4,Staré Město,110 00 Praha 1,Praha 1,Hlavní město Praha,1820M01,Informační technologie,10,40,364,Praha 1
+060449004,Střední škola,C00,Jindřišská 966/36,Nové Město,110 00 Praha 1,Praha 1,Hlavní město Praha,7941K41,Gymnázium,10,40,136,Praha 1
+110001630,Střední škola,C00,Štěpánská 614/22,Nové Město,110 00 Praha 1,Praha 1,Hlavní město Praha,7941K41,Gymnázium,10,40,450,Praha 1
+000334677,Střední škola,C00,Botičská 424/1,Nové Město,128 00 Praha 2,Praha 2,Hlavní město Praha,7941K41,Gymnázium,10,40,435,Praha 2
+000638552,Střední škola,C00,Vršovická 564/43,Vršovice,101 00 Praha 10,Praha 10,Hlavní město Praha,6542M01,Hotelnictví,10,40,640,Praha 10
+000638463,Střední škola,C00,Resslova 1780/8,Nové Město,120 00 Praha 2,Praha 2,Hlavní město Praha,6341M02,Obchodní akademie,10,40,800,Praha 2
+000283762,Střední škola,C00,Vinohradská 1971/38,Vinohrady,120 00 Praha 2,Praha 2,Hlavní město Praha,6341M02,Obchodní akademie,10,40,650,Praha 2
+000638374,Střední škola,C00,Ječná 517/30,Nové Město,120 00 Praha 2,Praha 2,Hlavní město Praha,1820M01,Informační technologie,10,40,816,Praha 2
+000638455,Střední škola,C00,Resslova 1940/5,Nové Město,120 00 Praha 2,Praha 2,Hlavní město Praha,6341M01,Ekonomika a podnikání,10,40,136,Praha 2
+045268983,Střední škola,C00,Vinohradská 1971/38,Vinohrady,120 00 Praha 2,Praha 2,Hlavní město Praha,6341M01,Ekonomika a podnikání,10,40,200,Praha 2
+000638366,Střední škola,C00,Podskalská 365/10,Nové Město,128 00 Praha 2,Praha 2,Hlavní město Praha,1601M01,Ekologie a životní prostředí,10,40,120,Praha 2
+045768561,Střední škola,C00,Ječná 527/33,Nové Město,120 00 Praha 2,Praha 2,Hlavní město Praha,6843M01,Veřejnosprávní činnost,10,40,145,Praha 2
+000335410,Střední škola,C00,Sladkovského náměstí 900/8,Žižkov,130 00 Praha 3,Praha 3,Hlavní město Praha,7941K41,Gymnázium,10,40,252,Praha 3
+110002008,Střední škola,C00,Kubelíkova 1221/37,Žižkov,130 00 Praha 3,Praha 3,Hlavní město Praha,6341M02,Obchodní akademie,10,40,528,Praha 3
+000312835,Střední škola,C00,Žižkovo náměstí 1300/1,Žižkov,130 00 Praha 3,Praha 3,Hlavní město Praha,3342M01,Nábytkářská a dřevařská výroba,10,40,88,Praha 3
+000638609,Střední škola,C00,Hollarovo náměstí 2275/2,Vinohrady,130 00 Praha 3,Praha 3,Hlavní město Praha,8241M05,Grafický design,10,40,140,Praha 3
+108029310,Střední škola,C00,Písnická 760/11,Kamýk,142 00 Praha 4,Praha 4,Hlavní město Praha,7941K41,Gymnázium,10,40,180,Praha 4
+000335533,Střední škola,C00,Ohradní 111/55,Michle,140 00 Praha 4,Praha 4,Hlavní město Praha,7941K41,Gymnázium,10,40,510,Praha 4
+000638358,Střední škola,C00,Družstevní ochoz 1659/3,Nusle,140 00 Praha 4,Praha 4,Hlavní město Praha,3647M01,Stavebnictví,10,40,720,Praha 4
+000335606,Střední škola,C00,Postupická 3150/4,Záběhlice,141 00 Praha 4,Praha 4,Hlavní město Praha,7941K41,Gymnázium,10,40,350,Praha 4
+000335487,Střední škola,C00,Na Vítězné pláni 1160/1,Nusle,140 00 Praha 4,Praha 4,Hlavní město Praha,7941K41,Gymnázium,10,40,272,Praha 4
+048109355,Střední škola,C00,Sázavská 830/5,Vinohrady,149 00 Praha 2,Praha 2,Hlavní město Praha,7941K41,Gymnázium,10,40,402,Praha 2
+108029409,Střední škola,C00,Nárožní 2600/9a,Stodůlky,158 00 Praha 5,Praha 5,Hlavní město Praha,7842M02,Ekonomické lyceum,10,40,110,Praha 5
+049366629,Střední škola,C00,Konstantinova 1500/50,Chodov,149 00 Praha 4,Praha 4,Hlavní město Praha,7941K41,Gymnázium,10,40,128,Praha 4
+110007778,Střední škola,C00,Rakovského 3136/1,Modřany,143 00 Praha 4,Praha 4,Hlavní město Praha,7941K41,Gymnázium,10,40,130,Praha 4
+110001648,Střední škola,C00,Ekonomická 957,Kunratice,148 00 Praha 4,Praha 4,Hlavní město Praha,6341M01,Ekonomika a podnikání,10,40,290,Praha 4
+110036514,Střední škola,C00,Roztylská 1860/1,Chodov,148 00 Praha 4,Praha 4,Hlavní město Praha,1820M01,Informační technologie,10,40,90,Praha 4
+000335479,Střední škola,C00,Budějovická 680/17,Michle,140 00 Praha 4,Praha 4,Hlavní město Praha,7941K41,Gymnázium,10,40,320,Praha 4
+044796277,Střední škola,C00,K Milíčovu 674/2,Háje,149 00 Praha 4,Praha 4,Hlavní město Praha,6341M01,Ekonomika a podnikání,10,40,400,Praha 4
+108029344,Střední škola,C00,Machkova 1646/1,Chodov,149 00 Praha 4,Praha 4,Hlavní město Praha,6341M01,Ekonomika a podnikání,10,40,120,Praha 4
+048134023,Střední škola,C00,K Sídlišti 840/2,Podolí,140 00 Praha 4,Praha 4,Hlavní město Praha,6843M01,Veřejnosprávní činnost,10,40,130,Praha 4
+110001621,Střední škola,C00,Michelská 22/12,Michle,140 00 Praha 4,Praha 4,Hlavní město Praha,6843M01,Veřejnosprávní činnost,10,40,365,Praha 4
+045247226,Střední škola,C00,Hrusická 2537/7,Záběhlice,141 00 Praha 4,Praha 4,Hlavní město Praha,7541M01,Sociální činnost,10,40,240,Praha 4
+061385271,Střední škola,C00,Na Zatlance 1330/11,Smíchov,150 00 Praha 5,Praha 5,Hlavní město Praha,7941K41,Gymnázium,10,40,520,Praha 5
+061384992,Střední škola,C00,Loučanská 520/1,Radotín,153 00 Praha 5,Praha 5,Hlavní město Praha,7941K41,Gymnázium,10,40,250,Praha 5
+061385701,Střední škola,C00,Zborovská 621/45,Malá Strana,150 00 Praha 5,Praha 5,Hlavní město Praha,7941K41,Gymnázium,10,40,170,Praha 5
+061386855,Střední škola,C00,Preslova 72/25,Smíchov,150 00 Praha 5,Praha 5,Hlavní město Praha,1820M01,Informační technologie,10,40,650,Praha 5
+110011295,Střední škola,C00,Radlická 591/115,Jinonice,158 00 Praha 5,Praha 5,Hlavní město Praha,6542M01,Hotelnictví,10,40,600,Praha 5
+110001885,Střední škola,C00,Plzeňská 298/217a,Motol,150 00 Praha 5,Praha 5,Hlavní město Praha,1820M01,Informační technologie,10,40,240,Praha 5
+110007701,Střední škola,C00,Laudova 1024/10,Řepy,163 00 Praha 6,Praha 6,Hlavní město Praha,6341M02,Obchodní akademie,10,40,200,Praha 6
+045248001,Střední škola,C00,Drtinova 498/3,Smíchov,150 00 Praha 5,Praha 5,Hlavní město Praha,6843M01,Veřejnosprávní činnost,10,40,370,Praha 5
+061386022,Střední škola,C00,Arabská 682/14,Vokovice,160 00 Praha 6,Praha 6,Hlavní město Praha,7941K41,Gymnázium,10,40,670,Praha 6
+061388246,Střední škola,C00,Parléřova 118/2,Hradčany,169 00 Praha 6,Praha 6,Hlavní město Praha,7941K41,Gymnázium,10,40,390,Praha 6
+061384534,Střední škola,C00,Krupkovo náměstí 26/4,Bubeneč,160 00 Praha 6,Praha 6,Hlavní město Praha,6341M02,Obchodní akademie,10,40,490,Praha 6
+049625446,Střední škola,C00,Nad Alejí 1952/5,Břevnov,162 00 Praha 6,Praha 6,Hlavní město Praha,7941K41,Gymnázium,10,40,130,Praha 6
+000639494,Střední škola,C00,K letišti 278/4a,Ruzyně,161 00 Praha 6,Praha 6,Hlavní město Praha,2345L02,Letecký mechanik,10,40,120,Praha 6
+060447109,Střední škola,C00,Vinořská 163/17,Satalice,190 15 Praha 9,Praha 9,Hlavní město Praha,6341M02,Obchodní akademie,10,40,208,Praha 9
+061388068,Střední škola,C00,Evropská 330/33,Dejvice,160 00 Praha 6,Praha 6,Hlavní město Praha,7531M01,Předškolní a mimoškolní pedagogika,10,40,240,Praha 6
+061385891,Střední škola,C00,Jablonského 333/3,Holešovice,170 00 Praha 7,Praha 7,Hlavní město Praha,3143M01,Oděvnictví,10,40,410,Praha 7
+000336475,Střední škola,C00,U libeňského zámku 1/2,Libeň,180 00 Praha 8,Praha 8,Hlavní město Praha,7941K41,Gymnázium,10,40,570,Praha 8
+000638501,Střední škola,C00,U Vinohradského hřbitova 2471/3,Vinohrady,130 00 Praha 3,Praha 3,Hlavní město Praha,6341M02,Obchodní akademie,10,40,440,Praha 3
+108000877,Střední škola,C00,Svídnická 506/1,Troja,181 00 Praha 8,Praha 8,Hlavní město Praha,6542M01,Hotelnictví,10,40,215,Praha 8
+000638218,Střední škola,C00,Pernerova 273/25,Karlín,186 00 Praha 8,Praha 8,Hlavní město Praha,7941K41,Gymnázium,10,40,288,Praha 8
+110036204,Střední škola,C00,Kollárova 271/5,Karlín,186 00 Praha 8,Praha 8,Hlavní město Praha,6341M02,Obchodní akademie,10,40,510,Praha 8
+016499671,Střední škola,C00,Svídnická 599/1a,Troja,181 00 Praha 8,Praha 8,Hlavní město Praha,6341M02,Obchodní akademie,10,40,170,Praha 8
+045796955,Střední škola,C00,Nad Rokoskou 111/7,Libeň,182 00 Praha 8,Praha 8,Hlavní město Praha,6341M02,Obchodní akademie,10,40,240,Praha 8
+108001342,Střední škola,C00,Českolipská 373/27,Střížkov,190 00 Praha 9,Praha 9,Hlavní město Praha,7941K41,Gymnázium,10,40,170,Praha 9
+000638404,Střední škola,C00,Pod Táborem 300/7,Hrdlořezy,190 00 Praha 9,Praha 9,Hlavní město Praha,3646M01,Geodézie a katastr nemovitostí,10,40,300,Praha 9
+108001270,Střední škola,C00,náměstí 25. března 100/2,Čakovice,196 00 Praha 9,Praha 9,Hlavní město Praha,7941K41,Gymnázium,10,40,300,Praha 9
+011233354,Střední škola,C00,Žalanského 68/54,Řepy,163 00 Praha 6,Praha 6,Hlavní město Praha,8241M01,Užitá malba,10,40,40,Praha 6
+014891409,Střední škola,C00,Novovysočanská 280/48,Vysočany,190 00 Praha 9,Praha 9,Hlavní město Praha,1820M01,Informační technologie,10,40,240,Praha 9
+108001491,Střední škola,C00,Litvínovská 600/1,Prosek,190 00 Praha 9,Praha 9,Hlavní město Praha,1820M01,Informační technologie,10,40,480,Praha 9
+000638170,Střední škola,C00,Litoměřická 726/17,Prosek,190 00 Praha 9,Praha 9,Hlavní město Praha,7941K41,Gymnázium,10,40,170,Praha 9
+108001547,Střední škola,C00,Dygrýnova 1006/21,Černý Most,198 00 Praha 9,Praha 9,Hlavní město Praha,6542M02,Cestovní ruch,10,40,140,Praha 9
+110007786,Střední škola,C00,Chabařovická 1125/4,Kobylisy,182 00 Praha 8,Praha 8,Hlavní město Praha,1820M01,Informační technologie,10,40,120,Praha 8
+000638188,Střední škola,C00,Špitálská 700/2,Vysočany,190 00 Praha 9,Praha 9,Hlavní město Praha,7941K41,Gymnázium,10,40,180,Praha 9
+000222411,Střední škola,C00,Podkovářská 797/4,Vysočany,190 00 Praha 9,Praha 9,Hlavní město Praha,8248L01,Starožitník,10,40,90,Praha 9
+044264445,Střední škola,C00,Trojská 211/110,Troja,171 00 Praha 7,Praha 7,Hlavní město Praha,6341M01,Ekonomika a podnikání,10,40,480,Praha 7
+045270082,Střední škola,C00,Žerotínova 1100/36,Žižkov,130 00 Praha 3,Praha 3,Hlavní město Praha,6341M01,Ekonomika a podnikání,10,40,185,Praha 3
+108001571,Střední škola,C00,Ke Stadionu 623/9,Čakovice,196 00 Praha 9,Praha 9,Hlavní město Praha,4143L01,Chovatel cizokrajných zvířat,10,40,120,Praha 9
+110011350,Střední škola,C00,Kardašovská 691,Hloubětín,198 00 Praha 9,Praha 9,Hlavní město Praha,6542M02,Cestovní ruch,10,40,135,Praha 9
+060162961,Střední škola,C00,Kozinova 1000/1,Hostivař,102 00 Praha 10,Praha 10,Hlavní město Praha,7941K41,Gymnázium,10,40,132,Praha 10
+000638421,Střední škola,C00,V úžlabině 320/23,Malešice,100 00 Praha 10,Praha 10,Hlavní město Praha,1820M01,Informační technologie,10,40,540,Praha 10
+047608960,Střední škola,C00,Svatoslavova 333/4,Nusle,140 00 Praha 4,Praha 4,Hlavní město Praha,7941K41,Gymnázium,10,40,150,Praha 4
+000638412,Střední škola,C00,Na Třebešíně 2299/69,Strašnice,100 00 Praha 10,Praha 10,Hlavní město Praha,1820M01,Informační technologie,10,40,256,Praha 10
+000638510,Střední škola,C00,Heroldovy sady 362/1,Vršovice,101 00 Praha 10,Praha 10,Hlavní město Praha,6341M02,Obchodní akademie,10,40,240,Praha 10
+000638200,Střední škola,C00,Voděradská 900/2,Strašnice,100 00 Praha 10,Praha 10,Hlavní město Praha,7941K41,Gymnázium,10,40,140,Praha 10
+000639133,Střední škola,C00,Jesenická 3067/1,Záběhlice,106 00 Praha 10,Praha 10,Hlavní město Praha,2345L01,Mechanik seřizovač,10,40,120,Praha 10
+063109026,Střední škola,C00,Omská 1300/4,Vršovice,100 00 Praha 10,Praha 10,Hlavní město Praha,7941K41,Gymnázium,10,40,270,Praha 10
+016996593,Střední škola,C00,Hornoměcholupská 873,Hostivař,102 00 Praha 10,Praha 10,Hlavní město Praha,7531M01,Předškolní a mimoškolní pedagogika,10,40,135,Praha 10
+110010116,Střední škola,C00,Ječná 527/33,Nové Město,120 00 Praha 2,Praha 2,Hlavní město Praha,5341M01,Zdravotnický asistent,10,40,230,Praha 2
+110031067,Střední škola,C00,5. května 200/51,Nusle,140 00 Praha 4,Praha 4,Hlavní město Praha,5341M01,Zdravotnický asistent,10,40,550,Praha 4
+000638323,Střední škola,C00,Na Příkopě 856/16,Nové Město,110 00 Praha 1,Praha 1,Hlavní město Praha,1820M01,Informační technologie,10,40,480,Praha 1
+110030982,Střední škola,C00,Alšovo nábřeží 82/6,Staré Město,110 00 Praha 1,Praha 1,Hlavní město Praha,2844M01,Aplikovaná chemie,10,40,272,Praha 1
+000638226,Střední škola,C00,Ječná 530/27,Nové Město,120 00 Praha 2,Praha 2,Hlavní město Praha,7241M01,Informační služby,10,40,50,Praha 2
+150065591,Střední škola,C00,Výmolova 169/2,Radlice,150 00 Praha 5,Praha 5,Hlavní město Praha,5344M03,Asistent zubního technika,10,40,34,Praha 5
+130001902,Střední škola,C00,Jablonského 333/3,Holešovice,170 00 Praha 7,Praha 7,Hlavní město Praha,6341M01,Ekonomika a podnikání,10,40,580,Praha 7
+130001376,Střední škola,C00,U Měšťanských škol 525/1,Kobylisy,182 00 Praha 8,Praha 8,Hlavní město Praha,6341M01,Ekonomika a podnikání,10,40,256,Praha 8
+014891221,Střední škola,C00,Novoborská 610/2,Prosek,190 00 Praha 9,Praha 9,Hlavní město Praha,1820M01,Informační technologie,10,40,272,Praha 9
+110026012,Střední škola,C00,Lipí 1911/22,Horní Počernice,193 00 Praha 9,Praha 9,Hlavní město Praha,6341M01,Ekonomika a podnikání,10,40,256,Praha 9
+110025725,Střední škola,C00,Učňovská 100/1,Hrdlořezy,190 00 Praha 9,Praha 9,Hlavní město Praha,3741M01,Provoz a ekonomika dopravy,10,40,140,Praha 9
+000497070,Střední škola,C00,Weilova 1270/4,Hostivař,102 00 Praha 10,Praha 10,Hlavní město Praha,1820M01,Informační technologie,10,40,360,Praha 10
+110011066,Střední škola,C00,Radlická 591/115,Jinonice,158 00 Praha 5,Praha 5,Hlavní město Praha,6341M02,Obchodní akademie,10,40,84,Praha 5
+061385476,Střední škola,C00,Nad Štolou 1510/1,Holešovice,170 00 Praha 7,Praha 7,Hlavní město Praha,7941K41,Gymnázium,10,40,250,Praha 7
+000638196,Střední škola,C00,Přípotoční 1337/1a,Vršovice,101 00 Praha 10,Praha 10,Hlavní město Praha,7941K41,Gymnázium,10,40,570,Praha 10
+110380193,Střední škola,C00,Belgická 67/25,Vinohrady,120 00 Praha 2,Praha 2,Hlavní město Praha,7941K41,Gymnázium,10,40,100,Praha 2
+150078137,Střední škola,C00,Křejpského 1501/12,Chodov,149 00 Praha 4,Praha 4,Hlavní město Praha,7842M06,Kombinované lyceum,10,40,132,Praha 4
+151016003,Střední škola,C00,Novomeského 2139/1,Chodov,149 00 Praha 4,Praha 4,Hlavní město Praha,6341M01,Ekonomika a podnikání,10,40,160,Praha 4
+151028931,Střední škola,C00,Masná 700/13,Staré Město,110 00 Praha 1,Praha 1,Hlavní město Praha,7941K41,Gymnázium,10,40,300,Praha 1
+151038546,Střední škola,C00,Rytířská 406/10,Staré Město,110 00 Praha 1,Praha 1,Hlavní město Praha,7941K41,Gymnázium,10,40,400,Praha 1
+181088231,Střední škola,C00,Baarova 360/24,Michle,140 00 Praha 4,Praha 4,Hlavní město Praha,7842M06,Kombinované lyceum,10,40,80,Praha 4
+151040753,Střední škola,C00,Libušská 320/111,Písnice,142 00 Praha 4,Praha 4,Hlavní město Praha,8241M05,Grafický design,10,40,120,Praha 4
+200001027,Střední škola,C00,Pod Táborem 102/5,Hrdlořezy,190 24 Praha 9,Praha 9,Hlavní město Praha,6842M01,Bezpečnostně právní činnost,10,40,neuvádí se,Praha 9
+181002931,Střední škola,C00,Kuncova 1580/1,Stodůlky,155 00 Praha 5,Praha 5,Hlavní město Praha,7941K41,Gymnázium,10,40,360,Praha 5
+181006383,Střední škola,C00,Na planině 1393/13,Krč,140 00 Praha 4,Praha 4,Hlavní město Praha,7941K41,Gymnázium,10,40,272,Praha 4
+040652441,Střední škola,C00,Bělohorská 182/171,Břevnov,169 00 Praha 6,Praha 6,Hlavní město Praha,6341M01,Ekonomika a podnikání,10,40,312,Praha 6
+181084694,Střední škola,C00,Hornokrčská 709/3,Krč,140 00 Praha 4,Praha 4,Hlavní město Praha,7941K41,Gymnázium,10,40,100,Praha 4
+181059568,Střední škola,C00,Hloubětínská 78/26,Hloubětín,198 00 Praha 9,Praha 9,Hlavní město Praha,4104M01,Rostlinolékařství,10,40,40,Praha 9
+181119331,Střední škola,C00,Rajmonova 1199/4,Kobylisy,182 00 Praha 8,Praha 8,Hlavní město Praha,7941K41,Gymnázium,10,40,30,Praha 8
+049704397,Střední škola,C00,Kodaňská 54/10,Vršovice,101 00 Praha 10,Praha 10,Hlavní město Praha,6341M01,Ekonomika a podnikání,10,40,160,Praha 10
+181096803,Střední škola,C00,Prokopova 100/16,Žižkov,130 00 Praha 3,Praha 3,Hlavní město Praha,7842M03,Pedagogické lyceum,10,40,150,Praha 3
+181105527,Střední škola,C00,K cihelně 129,Satalice,190 15 Praha 9,Praha 9,Hlavní město Praha,7941K41,Gymnázium,10,40,160,Praha 9
+181106451,Střední škola,C00,Rostovská 1481/2a,Vršovice,101 00 Praha 10,Praha 10,Hlavní město Praha,7842M06,Kombinované lyceum,10,40,120,Praha 10
+181110393,Střední škola,C00,Učňovská 100/1,Hrdlořezy,190 00 Praha 9,Praha 9,Hlavní město Praha,7941K41,Gymnázium,10,40,30,Praha 9
+181118831,Střední škola,C00,Opatovická 160/18,Nové Město,110 00 Praha 1,Praha 1,Hlavní město Praha,7941K41,Gymnázium,10,40,120,Praha 1
+110011325,Střední škola,C00,José Martího 269/31,Veleslavín,162 00 Praha 6,Praha 6,Hlavní město Praha,6643M01,Knihkupecké a nakladatelské činnosti,10,40,138,Praha 6
+110380126,Střední škola,C00,Střížkovská 32/27,Střížkov,180 00 Praha 8,Praha 8,Hlavní město Praha,7941K41,Gymnázium,10,40,97,Praha 8
+181128047,Střední škola,C00,Mikulandská 134/5,Nové Město,110 00 Praha 1,Praha 1,Hlavní město Praha,7941K41,Gymnázium,10,40,40,Praha 1
+181128331,Střední škola,C00,Masná 1000/18,Staré Město,110 00 Praha 1,Praha 1,Hlavní město Praha,7941K41,Gymnázium,10,40,180,Praha 1

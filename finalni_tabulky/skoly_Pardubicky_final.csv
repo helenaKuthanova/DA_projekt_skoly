@@ -1,0 +1,42 @@
+id,nazev,typ,adresa1,adresa2,adresa3,PSC,obec,kraj,obor_kod,obor_nazev,obor_forma,obor_delka,obor_kapacita,okres
+060103345,Střední škola,C00,Tyršovo náměstí 250,Chrudim II,537 01 Chrudim,537 01,Chrudim,Pardubický kraj,6341M02,Obchodní akademie,10,40,330,Chrudim
+060103337,Střední škola,C00,Olbrachtova 291,Chrudim IV,537 01 Chrudim,537 01,Chrudim,Pardubický kraj,7941K41,Gymnázium,10,40,260,Chrudim
+110020405,Střední škola,C00,Víta Nejedlého 482,Chrudim III,537 01 Chrudim,537 01,Chrudim,Pardubický kraj,6542M01,Hotelnictví,10,40,200,Chrudim
+015052591,Střední škola,C00,Čáslavská 973,Chrudim IV,537 01 Chrudim,537 01,Chrudim,Pardubický kraj,2341M01,Strojírenství,10,40,272,Chrudim
+061222402,Střední škola,C00,Gorkého 867,Zelené Předměstí,530 02 Pardubice,530 02,Pardubice,Pardubický kraj,1820M01,Informační technologie,10,40,120,Pardubice
+048161101,Střední škola,C00,Na Mušce 1110,534 01 Holice,534 01 Holice,534 01,Holice,Pardubický kraj,7941K41,Gymnázium,10,40,132,Pardubice
+048160989,Střední škola,C00,Dašická 1083,Bílé Předměstí,530 03 Pardubice,530 03,Pardubice,Pardubický kraj,7941K41,Gymnázium,10,40,320,Pardubice
+048161209,Střední škola,C00,Štefánikova 325,Zelené Předměstí,530 02 Pardubice,530 02,Pardubice,Pardubický kraj,6341M02,Obchodní akademie,10,40,485,Pardubice
+048161012,Střední škola,C00,Dašická 268,Bílé Předměstí,530 03 Pardubice,530 03,Pardubice,Pardubický kraj,7942K41,Gymnázium se sportovní přípravou,10,40,240,Pardubice
+044434324,Střední škola,C00,Ke Kamenci 151,Bílé Předměstí,530 03 Pardubice,530 03,Pardubice,Pardubický kraj,1820M01,Informační technologie,10,40,220,Pardubice
+110032233,Střední škola,C00,Mozartova 449,Polabiny,530 09 Pardubice,530 09,Pardubice,Pardubický kraj,7941K41,Gymnázium,10,40,400,Pardubice
+046521798,Střední škola,C00,U Josefa 118,Cihelna,530 09 Pardubice,530 09,Pardubice,Pardubický kraj,6542M02,Cestovní ruch,10,40,300,Pardubice
+012954691,Střední škola,C00,Sokolovská 150,533 54 Rybitví,533 54 Rybitví,533 54,Rybitví,Pardubický kraj,1820M01,Informační technologie,10,40,170,Pardubice
+000401021,Střední škola,C00,T. G. Masaryka 590,Litomyšl-Město,570 01 Litomyšl,570 01,Litomyšl,Pardubický kraj,7941K41,Gymnázium,10,40,130,Svitavy
+000087173,Střední škola,C00,A. K. Vitáka 452,569 43 Jevíčko,569 43 Jevíčko,569 43,Jevíčko,Pardubický kraj,6843M01,Veřejnosprávní činnost,10,40,120,Svitavy
+000401030,Střední škola,C00,Svitavská 310/16,Předměstí,571 01 Moravská Třebová,571 01,Moravská Třebová,Pardubický kraj,7842M01,Technické lyceum,10,40,120,Svitavy
+002518333,Střední škola,C00,Sokolovská 1638/1,Předměstí,568 02 Svitavy,568 02,Svitavy,Pardubický kraj,6341M02,Obchodní akademie,10,40,272,Svitavy
+000087211,Střední škola,C00,Komenského nám. 22,Litomyšl-Město,570 01 Litomyšl,570 01,Litomyšl,Pardubický kraj,7531M01,Předškolní a mimoškolní pedagogika,10,40,450,Svitavy
+015034569,Střední škola,C00,Nádražní 1083/8,Předměstí,568 02 Svitavy,568 02,Svitavy,Pardubický kraj,2344L01,Mechanik strojů a zařízení,10,40,120,Svitavy
+047450827,Střední škola,C00,Tyršova 237,Litomyšl-Město,570 01 Litomyšl,570 01,Litomyšl,Pardubický kraj,6341M01,Ekonomika a podnikání,10,40,240,Svitavy
+000401048,Střední škola,C00,nábř. Svobody 306,Horní Předměstí,572 01 Polička,572 01,Polička,Pardubický kraj,7941K41,Gymnázium,10,40,130,Svitavy
+049314670,Střední škola,C00,Tyršovo náměstí 970,560 02 Česká Třebová,560 02 Česká Třebová,560 02,Česká Třebová,Pardubický kraj,7941K41,Gymnázium,10,40,125,Ústí nad Orlicí
+049314653,Střední škola,C00,nám. J. M. Marků 113,Lanškroun-Vnitřní Město,563 01 Lanškroun,563 01,Lanškroun,Pardubický kraj,7941K41,Gymnázium,10,40,124,Ústí nad Orlicí
+000401081,Střední škola,C00,T. G. Masaryka 106,562 01 Ústí nad Orlicí,562 01 Ústí nad Orlicí,562 01,Ústí nad Orlicí,Pardubický kraj,7941K41,Gymnázium,10,40,124,Ústí nad Orlicí
+000401072,Střední škola,C00,nám. Vaňorného 163,Vysoké Mýto-Město,566 01 Vysoké Mýto,566 01,Vysoké Mýto,Pardubický kraj,7941K41,Gymnázium,10,40,240,Ústí nad Orlicí
+049314891,Střední škola,C00,Nádražní 48,564 01 Žamberk,564 01 Žamberk,564 01,Žamberk,Pardubický kraj,7941K41,Gymnázium,10,40,124,Ústí nad Orlicí
+110011848,Střední škola,C00,Gen. Závady 118,Litomyšlské Předměstí,566 01 Vysoké Mýto,566 01,Vysoké Mýto,Pardubický kraj,6341M01,Ekonomika a podnikání,10,40,120,Ústí nad Orlicí
+000087408,Střední škola,C00,Zahradní 541,562 01 Ústí nad Orlicí,562 01 Ústí nad Orlicí,562 01,Ústí nad Orlicí,Pardubický kraj,2345L01,Mechanik seřizovač,10,40,120,Ústí nad Orlicí
+000087670,Střední škola,C00,Dolní Třešňovec 17,563 01 Lanškroun,563 01 Lanškroun,563 01,Lanškroun,Pardubický kraj,4141M01,Agropodnikání,10,40,240,Ústí nad Orlicí
+110032110,Střední škola,C00,Habrmanova 1540,560 02 Česká Třebová,560 02 Česká Třebová,560 02,Česká Třebová,Pardubický kraj,1820M01,Informační technologie,10,40,230,Ústí nad Orlicí
+000529842,Střední škola,C00,Dukelská 313,Hylváty,562 01 Ústí nad Orlicí,562 01,Ústí nad Orlicí,Pardubický kraj,1602M01,Průmyslová ekologie,10,40,80,Ústí nad Orlicí
+049314912,Střední škola,C00,Komenského 472,561 51 Letohrad,561 51 Letohrad,561 51,Letohrad,Pardubický kraj,2341M01,Strojírenství,10,40,120,Ústí nad Orlicí
+110009754,Střední škola,C00,Poděbradova 336,Chrudim IV,537 01 Chrudim,537 01,Chrudim,Pardubický kraj,5341M03,Praktická sestra,10,40,225,Chrudim
+110010205,Střední škola,C00,Purkyňova 256/9,Předměstí,568 02 Svitavy,568 02,Svitavy,Pardubický kraj,5341M01,Zdravotnický asistent,10,40,165,Svitavy
+013582259,Střední škola,C00,Čáslavská 205,Chrudim IV,537 01 Chrudim,537 01,Chrudim,Pardubický kraj,1820M01,Informační technologie,10,40,128,Chrudim
+130001694,Střední škola,C00,Mládežnická 380,Pražské Předměstí,566 01 Vysoké Mýto,566 01,Vysoké Mýto,Pardubický kraj,2341M01,Strojírenství,10,40,136,Ústí nad Orlicí
+060103361,Střední škola,C00,Poděbradova 842,Chrudim IV,537 01 Chrudim,537 01,Chrudim,Pardubický kraj,1601M01,Ekologie a životní prostředí,10,40,120,Chrudim
+250000016,Střední škola,C00,Jevíčská 937/7,Předměstí,571 01 Moravská Třebová,571 01,Moravská Třebová,Pardubický kraj,2341M01,Strojírenství,10,40,neuvádí se,Svitavy
+110100859,Střední škola,C00,Vítězslava Nováka 584,539 73 Skuteč,539 73 Skuteč,539 73,Skuteč,Pardubický kraj,6842M01,Bezpečnostně právní činnost,10,40,120,Chrudim
+000087653,Střední škola,C00,T. G. Masaryka 659,Litomyšl-Město,570 01 Litomyšl,570 01,Litomyšl,Pardubický kraj,4143L01,Chovatel cizokrajných zvířat,10,40,300,Svitavy
+181048841,Střední škola,C00,Karla IV. 13,Zelené Předměstí,530 02 Pardubice,530 02,Pardubice,Pardubický kraj,1820M01,Informační technologie,10,40,480,Pardubice
