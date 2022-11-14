@@ -39,20 +39,24 @@ Data jsme zpracovávaly v Pythonu, používaly jsme Jupyter Notebook.
 
 ### Počty teenagerů v jednotlivých krajích a okresech
 + skript: okresy.ipynb
+
 V datech z ČSÚ jsme vyfiltrovaly věkovou kategorii 15–19 let (dále teenageři), která odpovídá věku studentů na středních školách, a celkové počty pro obě pohlaví.
 
 Vytvořily jsme jednu tabulku s počty teenagerů ve 14 českých krajích. Druhou tabulku jsme vytvořily pro 76 okresů a k okresům jsme připojily hodnoty pro 10 pražských částí (obvodů). Za Prahu jsme zvolily obvody, protože podle zákona o územně správním členění státu 10 pražských obvodů odpovídá členění na úrovni okresů. Zvažovaly jsme i 22 městských částí, ale pak bylo v jednotlivých částech relativně málo osob v dané věkové kategorii ve srovnání s okresy. Hodnoty pro pražské obvody v tabulkách z ČSÚ nebyly, takže jsme je posčítaly z hodnot pro městské části.
 
 ### Střední školy a jejich zařazení ke kraji a okresu
 + skripty: skoly.ipynb, spojeni_skol.ipynb, roztrideni_skol_dle_oboru_podrobnejsi.ipynb, deleni_adresy_ulice_cp.ipynb
+
 Pomocí modulu xml.etree.ElementTree jsme z rejstříku škol a školských zařízení extrahovaly pouze střední školy (kód C00), pro každou jsme si uložily kompletní adresu, kapacitu čtyřletého oboru a jeho kód. Pomocí modulu re a regulárního výrazu jsme vyčlenily samostatně název obce a samostatně poštovní směrovací číslo (PSČ). Dále jsme použily číselník České pošty a na základě názvu obce a PSČ jsme ke školám připojily příslušný okres. Tam, kde se okres přiřadit nepodařilo (většinou z důvodu, že škola uváděla jiné PSČ, než by odpovídalo podle České pošty), jsme ho doplnily ručně. Tím se nám školy rozdělily do skupin podle okresů. Postupně jsme takto zpracovaly všech 14 krajů a nakonec jsme je spojily do DataFramu s 805 středními školami.
 
 ### Získání souřadnic škol
 + deleni_adresy_ulice_cp.ipynb, GETrequestOSMapi.ipynb
+
 Od jednoho z mentorů jsme dostaly skript s API na získání souřadnic. Jako vstup vyžadoval zvlášť hodnoty pro obec, ulici a číslo popisné, takže opět za pomoci regulárního výrazu jsme oddělily ulici a číslo popisné. Výstupem byl DataFrame obohacený o hodnoty zeměpisné šířky a délky pro každou školu.
 
 ### Rozdělení škol do kategorií
 + roztrideni_skol_dle_oboru_podrobnejsi.ipynb
+
 Abychom mohly mezi sebou porovnávat různé typy škol, chtěly jsme je rozdělit do kategorií. Oficiální dělení je na gymnázia (K, 255 škol), úplné střední odborné vzdělání s maturitou (bez vyučení) (M, 511 škol) a úplné střední odborné vzdělání s odborným výcvikem a maturitou (L, 39 škol). Rozhodly jsme se pro vyčlenění dalších dvou skupin z kategorie "úplné střední odborné vzdělání s maturitou (bez vyučení)" -  informační technologie a obchodní akademie a veřejnosprávní činnost. Cýsledné použité dělení a počty zařazených škol jsou:
 1. gymnázium   255
 2. informační technologie   129
