@@ -93,7 +93,40 @@ Abychom mohly mezi sebou porovnávat různé typy škol, chtěly jsme je rozděl
 + rozhodly jsme se pro porovnání nejmenších vesnic, větších vesnic a menších měst
 
 ## Statistická analýza
-xxx
+###Data: 
+
+Používáme dva vzorky: 
+
+1.	celý vzorek získaný v poslední fázi sběru dat: 10 malých, 10 středních a až 10 větších obcí v každém kraji (kromě Prahy). V tomto vzorku využíváme tato data: 
+++	název obce, ze které se dopravní dostupnost sleduje
+++	kraj, ve kterém se obec bydliště nachází
+++	všechny školy dostupné z každé zkoumané obce: název obce a ID školy
+++	čas cesty z obce bydliště do obce školy
+Tento vzorek má celkem 357 obcí, a 10351 řádků (párování každé obce se všemi školami do vzdálenosti 30 km).
+
+2.	redukovaný vzorek založený na předchozím datasetu: pro každou obec je vybráno jen 5 nejbližších škol. 
+Motivací pro použití obou vzorků je zjistit, jak může zvolená metoda ovlivnit výsledky analýzy. Domníváme se, že plná data (vzorek 1) mohou ukázat plnou škálu možností v dané obci, zatímco redukovaná data (vzorek 2) jsou vhodnější při porovnávání času dojezdu z jednotlivých obcí. 
+
+###Hypotézy:
+A.	čas dojezdu do škol v jednotlivých krajích:
+Nulová hypotéza: Mezi kraji není v dojezdovém čase statisticky významný rozdíl.
+Alternativní hypotéza: Mezi kraji je v dojezdovém čase statisticky významný rozdíl.
+
+B.	čas dojezdu do škol podle velikosti obce: 
+Nulová hypotéza: Dojezdová vzdálenost není lineárně závislá na velikosti města.
+Alternativní hypotéza: Dojezdová vzdálenost je lineárně závislá na velikosti města.
+
+###Metody a statistické testy: 
+Nejprve jsme prozkoumaly vzorek dat a zjistily, že data o dojezdových vzdálenostech nemají normální rozdělení ani v jednom vzorku (test_normality_dat.ipynb)
+Proto jsme pro statistické ověřování zvolily následující testy (statisticke_testy.ipynb): 
+
+A.	rozdíly mezi kraji: Kruskal-Wallis H-test: test ukázal, že rozdíly mezi kraji jsou statisticky signifikantní. Můžeme tedy zamítnout nulovou hypotézu a předpokládat, že dojezdové časy se v krajích liší. Test však neříká, kde přesně se vzorky liší a je tedy potřeba provést sérii dalších testů, při kterých jsou zkoumány kraje po dvojicích, ve kterých zjišťujeme, kde jsou rozdíly signifikantní. Tento test naznačil, že rozdíly mezi kraji s blízkými hodnotami mediánu nejsou statisticky signifikantní, ale rozdíly mezi kraji vzdálenějšími v hodnotě mediánu (3 místa od sebe) už často signifikantní jsou. Nejedná se tedy o jeden nebo dva kraje vybočující z řady, ale rozdíly napříč většinou krajů. 
+
+B.	test závislosti času dojezdu na velikosti obce: jako test korelace jsme použily Spearmanův koeficient. Výsledek testu (koeficient -0.08, p < .001) vypovídá o velmi slabé (téměř nulové) korelaci mezi veličinami, statisticky je ale výsledek signifikantní. To znamená, že díky velkému množství dat je výsledek výpočtu velmi přesně odpovídající distribuci v populaci, ale protože je korelace extrémně slabá, nemá velikost obce téměř žádný vliv na délku cesty do školy.
+Korelaci jsme dále zkoušely měřit s mediánem za každou obci, korelace byla stále slabá negativní, a výsledek signifikantní
+Když se však v testu použil vzorek 2 (tedy pouze 5 nejbližších škol na obec), tak byla korelace středně silná negativní, statisticky signifikantní (koeficient -0.38, p < 0.001). 
+Data ze vzorku 1 pravděpodobně reflektují relativně husté osídlení v ČR (obce nejsou dostupností automobilem vázány jen na jedno město v okolí). Vzorek 2 ale ukazuje, že ve větších obcích jsou nejbližší školy dostupné za kratší dobu než v menších obcích.
+
 
 ## Vizualizace
 K vizualizacím jsme používaly Tableau.
