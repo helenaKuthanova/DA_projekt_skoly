@@ -83,7 +83,7 @@ Abychom mohly mezi sebou porovnávat různé typy škol, chtěly jsme je rozděl
 ### Proč ne veřejná doprava?
 + Plánovaly jsme měřit čas dojezdu veřejnou dopravou, což by pro naši cílovou skupinu středoškoláků dávalo větší smysl), ale v té době, kdy jsme potřebovaly, se nám nepodařilo najít vhodné API. Vyzkoušely jsme "Public Transit Routing API v8", ale z více než 400 kombinací obec-škola se nám vyhledaly spoje pouze pro cca 30 z nich. I když jsme nastavily maximální vzdálenost pro pěší chůzi (= 6000 m, přestože to už je spíš neakceptovatelné), pomohlo to jen málo - vyhledal se spoj asi pro 70 kombinací obec-škola.
 ++ pokusné měření mezi lokalitami Blatov (Praha 21) - Český Brod vyšlo správně.
-++ API však zřejmě nepokrývá kompletní veřejnou dopravu v ČR.
+API však zřejmě nepokrývá kompletní veřejnou dopravu v ČR.
 ++ Náhodným ověřením na jizdnirady.idos.cz jsme zjistily, že z některých obcí se člověk ve všední den ráno do dané školy prostě nedostane. => nezbytnost auta v malých obcích.
 ++ Další pokus byl s Routing API Playground (https://apidocs.geoapify.com/playground/routing/), ale nevyšel už pokus mezi zkušebními lokalitami, API zřejmě nepracuje s vlaky?
 ++ Tohle je určitě možný směr jak pokračovat - najít api na měření dojezdu veřejnou dopravou, protože u teenagerů je pravděpodobně primární volbou.
@@ -93,21 +93,22 @@ Abychom mohly mezi sebou porovnávat různé typy škol, chtěly jsme je rozděl
 + rozhodly jsme se pro porovnání nejmenších vesnic, větších vesnic a menších měst
 
 ## Statistická analýza
-###Data: 
+
+### Data: 
 
 Používáme dva vzorky: 
 
 1.	celý vzorek získaný v poslední fázi sběru dat: 10 malých, 10 středních a až 10 větších obcí v každém kraji (kromě Prahy). V tomto vzorku využíváme tato data: 
-++	název obce, ze které se dopravní dostupnost sleduje
-++	kraj, ve kterém se obec bydliště nachází
-++	všechny školy dostupné z každé zkoumané obce: název obce a ID školy
-++	čas cesty z obce bydliště do obce školy
+++ název obce, ze které se dopravní dostupnost sleduje
+++ kraj, ve kterém se obec bydliště nachází
+++ všechny školy dostupné z každé zkoumané obce: název obce a ID školy
+++ čas cesty z obce bydliště do obce školy
 Tento vzorek má celkem 357 obcí, a 10351 řádků (párování každé obce se všemi školami do vzdálenosti 30 km).
 
 2.	redukovaný vzorek založený na předchozím datasetu: pro každou obec je vybráno jen 5 nejbližších škol. 
 Motivací pro použití obou vzorků je zjistit, jak může zvolená metoda ovlivnit výsledky analýzy. Domníváme se, že plná data (vzorek 1) mohou ukázat plnou škálu možností v dané obci, zatímco redukovaná data (vzorek 2) jsou vhodnější při porovnávání času dojezdu z jednotlivých obcí. 
 
-###Hypotézy:
+### Hypotézy:
 A.	čas dojezdu do škol v jednotlivých krajích:
 Nulová hypotéza: Mezi kraji není v dojezdovém čase statisticky významný rozdíl.
 Alternativní hypotéza: Mezi kraji je v dojezdovém čase statisticky významný rozdíl.
@@ -116,7 +117,7 @@ B.	čas dojezdu do škol podle velikosti obce:
 Nulová hypotéza: Dojezdová vzdálenost není lineárně závislá na velikosti města.
 Alternativní hypotéza: Dojezdová vzdálenost je lineárně závislá na velikosti města.
 
-###Metody a statistické testy: 
+### Metody a statistické testy: 
 Nejprve jsme prozkoumaly vzorek dat a zjistily, že data o dojezdových vzdálenostech nemají normální rozdělení ani v jednom vzorku (test_normality_dat.ipynb)
 Proto jsme pro statistické ověřování zvolily následující testy (statisticke_testy.ipynb): 
 
