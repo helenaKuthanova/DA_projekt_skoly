@@ -130,7 +130,11 @@ Proto jsme pro statistické ověřování zvolily následující testy (statisti
 + jako test korelace jsme použily Spearmanův koeficient. Výsledek testu (koeficient -0.08, p < .001) vypovídá o velmi slabé (téměř nulové) korelaci mezi veličinami, statisticky je ale výsledek signifikantní. To znamená, že díky velkému množství dat je výsledek výpočtu velmi přesně odpovídající distribuci v populaci, ale protože je korelace extrémně slabá, nemá velikost obce téměř žádný vliv na délku cesty do školy.
 + Korelaci jsme dále zkoušely měřit (stejným testem) s mediánem za každou obci, korelace byla stále slabá negativní, a výsledek signifikantní
 + Když se však v testu použil vzorek 2 (tedy pouze 5 nejbližších škol na obec), tak byla korelace středně silná negativní, statisticky signifikantní (koeficient -0.38, p < 0.001). 
++ Na základě dat 5 obcí, jsme si v pythonu vyzkoušely vykreslit i regresní model. 
+
 Data ze vzorku 1 pravděpodobně reflektují relativně husté osídlení v ČR (obce nejsou dostupností automobilem vázány jen na jedno město v okolí). Vzorek 2 ale ukazuje, že ve větších obcích jsou nejbližší školy dostupné za kratší dobu než v menších obcích.
+
+
 
 
 ## Vizualizace
