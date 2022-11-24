@@ -3,19 +3,9 @@
 # blog
 
 ## O projektu
-1.	Důležitost všeobecného vzdělání pro prosperitu společnosti (příprava na VŠ)
+Tématem našeho projektu je středoškolské vzdělávání v Česku. Vzdělání považujeme za jeden ze základních pilířů prosperity společnosti. Rovnost v přístupu ke vzdělání je považována za důležitou podmínku kvalitního školského systému. Toto téma je velmi aktuální, protože v příštím roce se bude na střední školy hlásit nejsilnější populační ročník za 29 let, a jak varuje např. analytik Daniel Hůle, školy nejsou na tento nápor připravené. Problémů s regionálními nerovnosti si všímá i MŠMT. Vzniká také pnutí mezi Středočeským krajem a Prahou, která podle některých supluje potřeby studentů ze Středočeského kraje. (**do blogu přidat odkazy**)
 
-
-Téma si nás našlo samo. Prvotní impulz - obě máme dite v 5. třídě, které by mohlo dělat přijímačky na osmileté gymnázium, a obě máme pocit, že v našem okolí žádná nejsou a všichni, kdo bydlí kdekoli jinde než my dvě, je na tom líp.
-V projektu jsme se rozhody zaměřit se na čtyřleté střední školy:
-+ jejich nabídka je pestřejší, nejde jen o gymnázia
-+ v současné době je téma velice aktuální, protože 9. třídy dokončují nejsilnější populační ročníky posledních let
-+ mluví se o tom, že by nějaké nové střední školy mohly vzniknout (na rozdíl od osmiletých gymnázií, u nichž se mluví o tom, že by měla zaniknout), tudíž bychom se mohly na základě dat pokusit vytipovat nějaký blank spot, kde škola očividně chybí a náš projekt by mohl mít i praktický dopad. 
-
-
-2.	Cílem našeho projektu bylo zmapovat, jak se liší možnosti studentů v různých regionech ČR dostat se na maturitní obor a jaká je nabídka oborů v krajích. V první části projektu jsme z dostupných dat porovnaly kapacitu škol v jednotlivých regionech s počtem obyvatel ve věku 15-19 let. Ve druhé části jsme provedly analýzu vzorku obcí různých velikostí ze všech krajů s cílem zjistit, jaký vliv má bydliště na možnosti výběru střední školy. 
-
------------------------------------------DONE---------------------------------------------------
+V projektu se zaměřujeme na čtyřleté maturitní obory, které představují přímou cestu k terciálnímu vzdělávání. Naším cílem je zmapovat, jak se liší možnosti studentů v různých regionech ČR dostat se na maturitní obor a jaká je nabídka oborů v krajích. Projekt má dvě části: v první části z dostupných dat porovnáme kapacitu škol s počtem obyvatel ve věku 15-19 let v dané oblasti. Ve druhé části analyzujeme vzorek obcí různých velikostí ze všech krajů s cílem zjistit, jaký vliv má bydliště na možnosti výběru střední školy. 
 
 ## Zdroje dat
 Ministerstvo školství poskytuje Rejstřík škol a školských zařízení pro jednotlivé kraje (xml). Z Českého statistického úřadu jsme použily tabulky Obyvatelstvo podle pětiletých věkových skupin a pohlaví, Počet obyvatel v obcích České republiky k 1. 1. 2021 (cvs), číselníky krajů, okresů, obcí a příslušnosti obcí ke krajům. Použily jsme číselník České pošty spojující poštovní směrovací číslo a obec. Při členění Prahy na obvody jsme vycházely z Wikipedie.
@@ -41,57 +31,47 @@ Nakonec jsme s použitím <a href='https://transit.router.hereapi.comAPI změři
 
 **XXX** obr vzdalenost_api
 
-Podle velikosti obcí jsme přiřadily kategorie, 1 – nejmenší, 2 – střední a 3 – největší obce a vytvořily jsme tabulku se všemi kraji, kterou jsme použily k vizualizacím v Tableau.
+Podle velikosti obcí jsme přiřadily kategorie, 1 – nejmenší, 2 – střední a 3 – největší obce a vytvořily jsme dataset se všemi kraji, obsahující celkem 357 obcí, a 10351 řádků. V něm jsme dále označily pro každou obec pět škol s nejkratším časem dojezdu (pokud nebylo k dostupných 5 škol, vybraly jsme všechny školy) a vytvořily jsme si tak vzorek, který nám umožnil analyzovat dostupnost nejbližších škol v každé obci, celkem obsahuje tento dataset 357 obcí, a 1817 řádků. Tento dataset jsme použily ke statistické analýze a k vizualizacím v Tableau.
+
 
 --------------------------------------------DONE-----------------------------------------------------
 
-Dopsat: výběr 5 nejbližších škol
-
-Výsledky analýzy vzorku obcí jsme take statisticky zpracovaly. 
-
-
 ## Statistická analýza
 ### Data: 
+Ke statistické analýze jsme tedy používaly tyto dva datasety:
+1.	celý vzorek vybraných obcí z každého kraje kromě Prahy 
+2.	vzorek pěti nejbližších škol pro každou obec bydliště 
 
-Používáme dva vzorky: 
-
-1.	celý vzorek získaný v poslední fázi sběru dat: 10 malých, 10 středních a až 10 větších obcí v každém kraji (kromě Prahy). V tomto vzorku využíváme tato data: 
-+ název obce, ze které se dopravní dostupnost sleduje
+V obou vzorcích jsme využily tato data: 
++ název obce bydliště
 + kraj, ve kterém se obec bydliště nachází
-+ všechny školy dostupné z každé zkoumané obce: název obce a ID školy
++ všechny školy dostupné z každé obce bydliště: obec a ID školy
 + čas cesty z obce bydliště do obce školy
-Tento vzorek má celkem 357 obcí, a 10351 řádků (párování každé obce se všemi školami do vzdálenosti 30 km).
-
-2.	redukovaný vzorek založený na předchozím datasetu: pro každou obec je vybráno jen 5 nejbližších škol.
- 
-Motivací pro použití obou vzorků je zjistit, jak může zvolená metoda ovlivnit výsledky analýzy. Domníváme se, že plná data (vzorek 1) mohou ukázat plnou škálu možností v dané obci, zatímco redukovaná data (vzorek 2) jsou vhodnější při porovnávání času dojezdu z jednotlivých obcí. 
 
 ### Hypotézy:
-1. čas dojezdu do škol v jednotlivých krajích:
-+ Nulová hypotéza: Mezi kraji není v dojezdovém čase statisticky významný rozdíl.
-+ Alternativní hypotéza: Mezi kraji je v dojezdovém čase statisticky významný rozdíl.
+V první části jsme zkoumaly rozdíly mezi jednotlivými kraji a ověřovaly následující hypotézu:
++ Mezi kraji je v dojezdovém čase statisticky významný rozdíl.
 
-2.	čas dojezdu do škol podle velikosti obce: 
-+ Nulová hypotéza: Dojezdová vzdálenost není lineárně závislá na velikosti města.
-+ Alternativní hypotéza: Dojezdová vzdálenost je lineárně závislá na velikosti města.
+V druhé části jsme analyzovaly vztah mezi časem dojezdu a velikostí obce a naše hypotéza byla tato:
++ Dojezdová vzdálenost je lineárně závislá na velikosti města.
 
 ### Metody a statistické testy: 
-Nejprve jsme prozkoumaly vzorek dat a zjistily, že data o dojezdových vzdálenostech nemají normální rozdělení ani v jednom vzorku (test_normality_dat.ipynb)
-Proto jsme pro statistické ověřování zvolily následující testy (statisticke_testy.ipynb): 
+Nejprve jsme zjistily, že data o dojezdových vzdálenostech nemají normální rozdělení ani v jednom vzorku.
+(**vložit test_normality_dat.ipynb**)
+Proto jsme pro statistické ověřování zvolily testy nepředpokládající normální rozdělení.
 
-1.	rozdíly mezi kraji: 
-+ Kruskal-Wallis H-test: test ukázal, že rozdíly mezi kraji jsou statisticky signifikantní. Můžeme tedy zamítnout nulovou hypotézu a předpokládat, že dojezdové časy se v krajích liší. 
-+ Test však neříká, kde přesně se vzorky liší a je tedy potřeba provést sérii dalších testů, při kterých jsou zkoumány kraje po dvojicích, ve kterých zjišťujeme, kde jsou rozdíly signifikantní. Tento test naznačil, že rozdíly mezi kraji s blízkými hodnotami mediánu nejsou statisticky signifikantní, ale rozdíly mezi kraji vzdálenějšími v hodnotě mediánu (3 místa od sebe) už často signifikantní jsou. Nejedná se tedy o jeden nebo dva kraje vybočující z řady, ale rozdíly napříč většinou krajů. Na základě této části můžeme tvrdit, že existují rozdíly v dostupnosti středních škol v závislosti na kraji bydliště.
+#### Rozdíly mezi kraji
+Kruskal-Wallis H-test ukázal, že rozdíly mezi kraji jsou statisticky signifikantní. Můžeme tedy zamítnout nulovou hypotézu a předpokládat, že dojezdové časy se v krajích liší. 
+Test však neříká, kde přesně se vzorky liší, a je tedy potřeba provést sérii dalších testů (Mann–Whitney U), při kterých jsou zkoumány kraje po dvojicích a my zjišťujeme, zda jsou rozdíly signifikantní jen v určité části vzorku, nebo napříč celým vzorkem. Zjistily jsme, že se nejedná o jeden nebo dva kraje vybočující z řady, ale rozdíly jsou signifikantní napříč většinou krajů. Na základě této části můžeme tvrdit, že existují rozdíly v dostupnosti středních škol v závislosti na kraji bydliště.
 
-2.	test závislosti času dojezdu na velikosti obce: 
-+ jako test korelace jsme použily Spearmanův koeficient. Výsledek testu (koeficient -0.08, p < .001) vypovídá o velmi slabé (téměř nulové) korelaci mezi veličinami, statisticky je ale výsledek signifikantní. To znamená, že díky velkému množství dat je výsledek výpočtu velmi přesně odpovídající distribuci v populaci, ale protože je korelace extrémně slabá, nemá velikost obce téměř žádný vliv na délku cesty do školy.
-+ Korelaci jsme dále zkoušely měřit (stejným testem) s mediánem za každou obci, korelace byla stále slabá negativní, a výsledek signifikantní
-+ Když se však v testu použil vzorek 2 (tedy pouze 5 nejbližších škol na obec), tak byla korelace středně silná negativní, statisticky signifikantní (koeficient -0.38, p < 0.001). 
-+ Na základě dat 5 obcí, jsme si v pythonu vyzkoušely vykreslit i regresní model. 
+#### Rozdíly dané velikostí obce: 
+Jako test korelace jsme použily Spearmanův koeficient. Výsledek testu datasetu všech dostupných škol (koeficient -0.08, p < .001) vypovídá o velmi slabé (téměř nulové) korelaci mezi veličinami a velikost obce nemá podle testu téměř žádný vliv na délku cesty do školy.
+Korelaci jsme otestovaly i na druhém datasetu (pět nejbližších obcí), a zde byla korelace středně silná negativní, statisticky signifikantní (koeficient -0.38, p < 0.001). V pythonu jsme si také vykreslily jednoduchý lineární regresní model. 
+(**vložit plot s trendline**)
 
-Data ze vzorku 1 pravděpodobně reflektují relativně husté osídlení v ČR (obce nejsou dostupností automobilem vázány jen na jedno město v okolí). Vzorek 2 ale ukazuje, že ve větších obcích jsou nejbližší školy dostupné za kratší dobu než v menších obcích.
+Téměř nulový vztah zkoumaných veličin v případě prvního datasetu nás překvapil, protože jsme očekávaly, že velikost obce bude mít na dojezdovou vzdálenost vliv. Domníváme se, že je to způsobeno hustým osídlením v ČR (nejen z menších obcí, ale i z měst jsou dostupná další města v okruhu 30 km). Druhý test už ale v souladu s očekáváním ukazuje, že pokud se zaměříme pouze na pět nejbližších škol, ve větších obcích se do nich studenti zvládnou dostat za kratší dobu.
 
-
+------------------------- asi víceméně DONE :-) -----------------------------------------------------
 -------------------------
 # VYNECHÁME, JEN ZATÍM NEMAŽU
 ## Mezery
