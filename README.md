@@ -15,7 +15,7 @@ V projektu jsme se rozhody zaměřit se na čtyřleté střední školy:
 
 2.	Cílem našeho projektu bylo zmapovat, jak se liší možnosti studentů v různých regionech ČR dostat se na maturitní obor a jaká je nabídka oborů v krajích. V první části projektu jsme z dostupných dat porovnaly kapacitu škol v jednotlivých regionech s počtem obyvatel ve věku 15-19 let. Ve druhé části jsme provedly analýzu vzorku obcí různých velikostí ze všech krajů s cílem zjistit, jaký vliv má bydliště na možnosti výběru střední školy. 
 
------------------------------------------DONE------------------------------------------------------------------------------
+-----------------------------------------DONE---------------------------------------------------
 
 ## Zdroje dat
 Ministerstvo školství poskytuje Rejstřík škol a školských zařízení pro jednotlivé kraje (xml). Z Českého statistického úřadu jsme použily tabulky Obyvatelstvo podle pětiletých věkových skupin a pohlaví, Počet obyvatel v obcích České republiky k 1. 1. 2021 (cvs), číselníky krajů, okresů, obcí a příslušnosti obcí ke krajům. Použily jsme číselník České pošty spojující poštovní směrovací číslo a obec. Při členění Prahy na obvody jsme vycházely z Wikipedie.
@@ -43,7 +43,7 @@ Nakonec jsme s použitím <a href='https://transit.router.hereapi.comAPI změři
 
 Podle velikosti obcí jsme přiřadily kategorie, 1 – nejmenší, 2 – střední a 3 – největší obce a vytvořily jsme tabulku se všemi kraji, kterou jsme použily k vizualizacím v Tableau.
 
---------------------------------------------DONE------------------------------------------------------------------------------
+--------------------------------------------DONE-----------------------------------------------------
 
 Dopsat: výběr 5 nejbližších škol
 
